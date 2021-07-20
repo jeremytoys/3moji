@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="container-1">
+    <div class="box-1">
+        <h3>
+          <a class="nav" href="index.html" style="display: inline">3moji</a>
+        </h3>
+    </div>
+
+<div class="push"></div>
+<div class="box-1">
+        <h3>
+          <a class="nav" href="Smileys&People.html">Catagories</a>
+        </h3>
+      </div>
+</div>
+
+<!-- pagecontent -->
+<div class="container-2">
+
+<div class="container-2-box">
+          <h4>Search 3moji</h4>
+
+<!-- Html Elements for Search -->
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+
+<!-- Script pointing to search-script.js -->
+
+<script src="js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<div><a href="{url}"><img width="100px" src="assets/img/3moji/{emoji}.png"/><h2>{title}<h2></a></div>',
+  json: '/search.json'
+})
+</script>
+
+</div>
+
+</div>
+</div>

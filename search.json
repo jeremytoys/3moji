@@ -1,0 +1,14 @@
+---
+---
+
+[
+  {% for page in site.pages %}
+    {
+
+      "title"    : "{{ page.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ page.url }}",
+      "emoji"    : "{{page.emoji | escape }}"
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

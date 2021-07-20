@@ -1,0 +1,309 @@
+/* shared code */
+
+body {
+    margin: 0px;
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+    background-color: rgb(255, 192, 57);
+		padding:0;
+  }
+
+  html{
+    height:100%;
+    width:100%;
+  }
+
+  /* header */
+  
+  .container-1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+  
+  .push {
+    margin-left: auto;
+  }
+  
+  .nav {
+    color:black;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    padding:2px;
+    text-decoration: none;
+  }
+  
+  .nav:hover {
+    text-decoration: none;
+    Background-color:black;
+    color:rgb(255, 192, 57);
+  }
+  
+  /* content homepage */
+  
+  .container-2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex: 1;
+    flex-wrap: wrap;
+    /* border: 1px rgb(255, 23, 197) solid; */
+  }
+  
+  .container-2-box {
+    max-width: 380px;
+    /* border: 1px rgb(93, 23, 255) solid; */
+  }
+
+  .fillspace {
+    display: flex;
+    height:100%;
+    min-height:700px;
+    /* border: 1px rgb(42, 255, 23) solid; */
+  }
+
+  @media (max-width: 760px) and (min-width: 0px) {
+}
+
+  
+  .centers {
+    margin: auto;
+  }
+  
+  .break {
+    flex-basis: 100%;
+    height: 0px;
+  }
+  
+  .icon {
+    width: 30px;
+    height: 30px;
+    padding-right: 10px;
+  }
+  
+  p {
+    color: rgb(16, 21, 39);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    line-height: 1.5em;
+  }
+
+  a{
+    text-decoration: none;
+    color: rgb(16, 21, 39);
+  }
+  
+  h2 {
+    color:  rgb(9, 9, 12);
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    padding:0px;
+    margin:5px;
+  }
+  
+  h3 {
+    color:  rgb(9, 9, 12);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+  }
+  
+  h4 {
+    color:  rgb(9, 9, 12);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    padding:0px;
+    margin:0px;
+  }
+  
+  .floater01 {
+    height:256px;
+    width:256px;
+    position: absolute;
+    top:5%;
+    right:85%;
+    transform: rotate(-15deg);
+  }
+  
+  .floater02 {
+    height:256px;
+    width:256px;
+    position: absolute;
+    top:60%;
+    left:85%;
+    transform: rotate(25deg);
+  }
+  /* for the index/home */
+  
+  .bodyimage {
+    width: 100%;
+    max-width: 450px;
+    border-radius:5px;
+  }
+  
+  model-viewer {
+    height:400px;
+    width:400px;
+    /* border: 1px rgb(93, 23, 255) solid; */
+  }
+  
+  model-viewer#reveal {
+    --poster-color: transparent;
+  }
+  
+  model-viewer:focus {
+    outline: none;
+  }
+  
+  /* top nav */
+  
+  .topnav {
+    overflow: hidden;
+    background-color: rgb(9, 9, 12);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: rgb(255, 192, 57);
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(255, 192, 57);
+    color: rgb(9, 9, 12);
+  }
+  
+  .topnav .icon {
+    display: none;
+    width:120px;
+    height: 19px;
+    
+  }
+  
+  .active:hover {
+    width:47px;
+  }
+  
+  @media screen and (max-width: 1220px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: right;
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 1220px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+  }
+    
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  
+    /* Image grid */
+  
+    .imagegrid {
+      /* border: 1px #ccc solid; */
+      margin-left:20px;
+      margin-right:20px;
+    }
+    .imagegridtwo {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 5px;
+      flex-wrap: wrap;
+    }
+  
+    .gridimage {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  
+    .griddiv {
+      width: calc( 200% / 10);
+      /* border: 3px red solid; */
+    }
+
+    .griddiv:nth-child(5n) {
+      break-after: always;
+      page-break-after: always;
+      flex-wrap: nowrap;
+    }
+  
+    .DownloadB {
+      Width:100%;
+      Padding-top: 10px;
+      Padding-bottom:10px;
+      Background-color:black;
+      text-align: Center;
+      font-family: "Montserrat", sans-serif;
+      font-weight: 800;
+      margin-top:5px;
+    }
+    .DownloadB:hover {
+      Background-color:rgb(255, 192, 57);
+      Color:black;
+    }
+  
+    .DL {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 800;
+    text-decoration: none;
+    color: rgb(255, 192, 57);
+    }
+  
+    .Donatebutton01 {
+      top:-20px;
+      left:-20px;
+      width:50px;
+      height:50px;
+      Position:Relative;
+      transform: rotate(-25deg);
+    }
+  
+    .Donatebutton02 {
+      top:-20px;
+      left:230px;
+      width:50px;
+      height:50px;
+      Position:Relative;
+      transform: rotate(25deg);
+    }
+
+    .cc {
+      position: fixed;
+      bottom: 0px;
+      right: 0px; 
+      font-family: "Montserrat", sans-serif;
+      font-size: 10px;
+      color: rgba(129, 101, 41, 0.432);
+  }
+
+  #search-container{
+  }
+
+  #search-input{
+    width:100%;
+    background-color:rgb(146, 135, 112);
+    border-radius: 0px;
+    border: 0px;
+    text-decoration: none;
+    height:30px;
+    padding:0px;
+    margin:0px;
+  }
