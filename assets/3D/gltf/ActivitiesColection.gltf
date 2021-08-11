@@ -1,0 +1,13 @@
+{
+    "asset" : {
+        "copyright" : "Jeremy Edelblut - 3moji.org",
+        "generator" : "Khronos glTF Blender I/O v1.6.16",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene"
+        }
+    ]
+}
