@@ -1,4 +1,4 @@
 ---
 layout: home
-title: 3moji - The home for 3D Emoji
+title: 3moji - A Home for 3D Emoji
 ---

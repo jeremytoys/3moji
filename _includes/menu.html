@@ -1,14 +1,44 @@
+<!-- Navigation script -->
+
+<script>
+
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+
+$(document).ready(function(){
+  $("button").click(function(){
+    $(".dropdown-content").toggle();
+  });
+});
+
+</script>
+
 <div class="topnav" id="myTopnav">
-    <a href="index.html" class="active">3moji</a>
-    <a href="Smileys&People.html" >Smileys & People</a>
-    <a href="Animals&Nature.html" >Animals & Nature</a>
-    <a href="Food&Drink.html" >Food & Drink</a>
-    <a href="Activity.html" >Activity</a>
-    <a href="Travel&Places.html" >Travel & Places</a>
-    <a href="Objects.html" >Objects</a>
-    <a href="Symbols.html" >Symbols</a>
-    <a href="Flags.html" >Flags</a>
-    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-      <div class="Catagories">Categories</div>
-    </a>
+  <a href="index.html" class="active">3moji</a>
+    
+  <div class="dropdown">
+
+    <button class="dropbtn" id="button">Catagories
+    </button>
+    <div class="dropdown-content">
+      <a href="Smileys&Emotion.html">😀 Smileys & Emotions</a>
+      <a href="People&Body.html">🧑‍🤝‍🧑 People & Body</a>
+      <a href="Animals&Nature.html">🐍 Animals & Nature</a>
+      <a href="Food&Drink.html">🧋 Food & Drink</a>
+      <a href="Activity.html">🎨 Activity</a>
+      <a href="Objects.html">💎 Objects</a>
+      <a href="Symbols.html">🔣 Symbols</a>
+      <a href="Flags.html">🎌 Flags</a>
+    </div>
+    <a class="searchButton" href="usage.html">Usage</a>
+    <a class="searchButton" href="search.html">Search 🔎</a>
   </div>
+  
+  <a href="javascript:void(0);" style="font-size:20px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>

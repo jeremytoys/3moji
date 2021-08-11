@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<!-- navigation -->
+
+{%- include menu.html -%}
+
+<div class="imagegrid">
+
+  <br>
+  <div class="subhead">
+    <h2>People & Body - Still working on these!</h2>
+  </div>
+  <div class="main" id="smileys&peopl"></div>
+
+  <div class="imagegridtwo">
+
+    {% for page in site.pages %}
+
+    {% if page.layout == 'people&body' %}
+
+    <div class="griddiv"><a href="{{ page.url }}"><img class="gridimage" src="assets/img/3moji/{{ page.emoji }}.png"
+          alt="{{ page.title }}" loading="lazy" /></a></div>
+
+    {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</div>

@@ -2,9 +2,8 @@
 layout: default
 ---
 <!-- navigation -->
-    
-{%- include menu.html -%}
 
+{%- include menu.html -%}
 
 <!-- pagecontent -->
 <div class="fillspace">
@@ -12,19 +11,11 @@ layout: default
 
     <div class="container-3-box">
       <!-- <img class="bodyimage" src="img/ohdear.png" alt="picture of 3moji" /> -->
-      <model-viewer
-      environment-image="neutral"
-      camera-orbit="0rad 1.5rad 3m"
-      max-field-of-view="90deg"
-      field-of-view="60deg"
-      min-field-of-view="30deg"
-      id="reveal" 
-      loading="eager" 
-      shadow-intensity="0"
-      exposure="0.75"
-      background-color="#FFC037" autoplay auto-rotate camera-controls
-      src="../assets/3D/gltf/{{ page.emoji | escape }}.gltf"
-      interaction-prompt="none" alt="I broke D:"></model-viewer>
+      <model-viewer environment-image="neutral" camera-orbit="0rad 1.5rad 3m" max-field-of-view="90deg"
+        field-of-view="60deg" min-field-of-view="30deg" id="reveal" loading="eager" shadow-intensity="0" exposure="0.75"
+        background-color="#FFC037" autoplay auto-rotate camera-controls
+        src="../assets/3D/gltf/{{ page.emoji | escape }}.gltf" interaction-prompt="none" alt="I broke D:">
+      </model-viewer>
     </div>
 
 
@@ -32,17 +23,22 @@ layout: default
       <h4>{{ page.title | escape }}</h4>
       <p>
         Oh look, it's {{ page.title | escape }}!
-        <br> 
-        I'm still working on how to roll these out, but at the moment feel free to use them, with credit, for personal non-commercial projects.
-        Drop me a line if you have any other questions. :) 
         <br>
-      </p>
-      <a class="DL" href="mailto:info@3moji.org"><div class="DownloadB">info@3moji.org</div></a>
+        These emoji are licensed under <a class="textlink" rel="license"
+        href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC</a>, so feel free to use them with credit in any noncommercial work. If
+        you’re looking to use them in a commercial project please see the <a class="textlink"
+        href="usage.html">usage</a> page.
+
+        <br>
       <h2>Download</h2>
-      <a class="DL" href="../assets/3D/gltf/{{ page.emoji | escape }}.gltf" download="{{ page.emoji | escape }}.gltf"><div class="DownloadB">GLTF</div></a>
+      <a class="DL" href="../assets/3D/gltf/{{ page.emoji | escape }}.gltf" download="{{ page.emoji | escape }}.gltf">
+        <div class="DownloadB">GLTF</div>
+      </a>
       <!-- <a class="DL" href="#page"><div class="DownloadB">FBX</div></a> 
       <br> -->
-       <a class="DL" href="../assets/img/3moji/{{ page.emoji | escape }}.png" download="{{ page.emoji | escape }}.PNG"><div class="DownloadB">PNG</div></a> 
+      <a class="DL" href="../assets/img/3moji/{{ page.emoji | escape }}.png" download="{{ page.emoji | escape }}.PNG">
+        <div class="DownloadB">PNG</div>
+      </a>
       <!-- <h2>Or</h2>
       <a class="DL" href="#page">
         
