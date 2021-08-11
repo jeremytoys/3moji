@@ -3,23 +3,27 @@ layout: default
 ---
 
 <!-- navigation -->
-    
+
 {%- include menu.html -%}
 
 <div class="imagegrid">
-  <div class="subhead"><h2>Food & Drink - Not done yet!</h2></div>
+  <br>
+  <div class="subhead">
+    <h2>Food & Drink - Not done yet!</h2>
+  </div>
 
   <div class="imagegridtwo">
 
-{% for page in site.pages %}
+    {% for page in site.pages %}
 
-  {% if page.layout == 'food&drink' %}
- 
-    <div class="griddiv"><a href="{{ page.url }}"><img class="gridimage" src="assets/img/3moji/{{ page.emoji }}.png" alt="{{ page.title }}"/></a></div>
+    {% if page.layout == 'food&drink' %}
 
-  {% endif %}
-  
-{% endfor %}
+    <div class="griddiv"><a href="{{ page.url }}"><img class="gridimage" src="assets/img/3moji/{{ page.emoji }}.png"
+          alt="{{ page.title }}" /></a></div>
+
+    {% endif %}
+
+    {% endfor %}
 
   </div>
 
