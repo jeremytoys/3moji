@@ -20,46 +20,107 @@ layout: default
     }
   </style>
 
+
+
+<style>
+  #search-container {
+    margin-top: 100px;
+    min-width: 380px;
+  }
+
+  #search-input {
+    width: 100%;
+    min-width: 380px;
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(255, 242, 198);
+    /* border-radius: 0px; */
+    text-decoration: none;
+    border: 0px;
+    height: 30px;
+    padding: 5px;
+    margin: 0px;
+    box-shadow: -3px 3px 0px 0px rgba(0, 0, 0, 0.2);
+  }
+
+  .searchText {
+    height: 100px;
+    max-width: 200px;
+    display: flex;
+    margin-top: 25px;
+  }
+
+  .searchImage {
+    height: 100px;
+    width: 100px;
+    display: flex;
+  }
+
+  .seachContainer {
+    width: 650px;
+    display: inline-flex;
+  }
+
+  #results-container {
+    margin-right: 0px;
+    padding-left: 0px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+  }
+
+  .homepage{
+    height:230px;
+  }
+
+</style>
+
+
 {%- include menu.html -%}
 
 <!-- pagecontent -->
-<div class="fillspace">
-  <div class="container-2">
+<div class="container-2">
 
-    <div class="container-3-box">
+  <div class="container-2-box">
 
-      <model-viewer environment-image="neutral" camera-orbit="0rad 1.5rad 3m" max-field-of-view="90deg"
-        field-of-view="60deg" min-field-of-view="30deg" id="reveal" loading="eager" shadow-intensity="0" exposure="0.75"
-        background-color="#FFC037" src="assets/3D/gltf/exploding_head.gltf" interaction-prompt="none" autoplay
-        auto-rotate camera-controls alt="I broke D:">
-      </model-viewer>
-    </div>
+    <!-- Html Elements for Search -->
+    <div id="search-container">
+      
+      <div class="container-3-box">
 
-    <div class="container-2-box">
-
-      <div class="inner">
-        <br>
-        <h4>A Home for 3D Emoji</h4>
-        <p>
-          Hey there! This website is a current work in progress. I'm on a mission to model all of the Emoji.
-          <br>
-          <br>
-          You can see what I’ve made so far by heading over to the <a class="textlink"
-          href="Smileys&Emotion.html">categories</a> page or search for a specific Emoji on the <a class="textlink"
-          href="search.html">search</a> page.
-          <br>
-          <br>
-          What more info, or are interested in the project? <a class="textlink" href="mailto:info@3moji.org">Reach out!</a>
-        </p>
-        
+        <model-viewer class="homepage" environment-image="neutral" camera-orbit="0rad 1.5rad 3m" max-field-of-view="90deg"
+          field-of-view="30deg" min-field-of-view="30deg" id="reveal" loading="eager" shadow-intensity="0" exposure="0.75"
+          background-color="#FFC037" src="assets/3D/gltf/3moji.gltf" interaction-prompt="none" camera-controls alt="I broke D:">
+        </model-viewer>
       </div>
 
+      <br>
+
+      <input type="text" id="search-input" placeholder="Search 3moji 🔎">
+      
+      <p>Or look through the Emoji <a class="textlink"
+        href="Smileys&Emotion.html">categories</a>.</p>
+      
+      <ul id="results-container"></ul>
+
+      <!-- Script pointing to search-script.js -->
+
+      <script src="js/search-script.js" type="text/javascript"></script>
+
+      <!-- Configuration -->
+
+      <script>
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          searchResultTemplate: '<div class="seachContainer"><div class="searchImage"><a href="{url}"><img width="100px" src="assets/img/3moji/{emoji}.png"/></div><div class="searchText"><h2>{title}</h2></div></a></div>',
+          json: '/search.json'
+        })
+      </script>
+
     </div>
-
-
   </div>
+</div>
 
-  <div class="floater01"><img class="floaterimage" src="assets/img/3moji/hot_face.png" alt="picture of 3moji" /></div>
+<div class="floater01"><img class="floaterimage" src="assets/img/3moji/hot_face.png" alt="picture of 3moji" /></div>
 
-  <div class="floater02"><img class="floaterimage" src="assets/img/3moji/smiling_face_with_hearts.png"
-      alt="picture of 3moji" /></div>
+<div class="floater02"><img class="floaterimage" src="assets/img/3moji/smiling_face_with_hearts.png"
+    alt="picture of 3moji" /></div>
