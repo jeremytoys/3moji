@@ -96,7 +96,7 @@
       setOptions: function (t) {
         (c = t || {}),
           (c.fuzzy = t.fuzzy || !1),
-          (c.limit = t.limit || 20),
+          (c.limit = t.limit || 10),
           (c.searchStrategy = t.fuzzy ? e : r),
           (c.sort = t.sort || o),
           (c.exclude = t.exclude || []);
@@ -119,7 +119,7 @@
     return u.push(t), u;
   }
   (c.fuzzy = !1),
-    (c.limit = 20),
+    (c.limit = 10),
     (c.searchStrategy = c.fuzzy ? e : r),
     (c.sort = o),
     (c.exclude = []);
@@ -191,10 +191,10 @@
           return 0;
         },
         noResultsText: "No results found",
-        limit: 20,
+        limit: 10,
         fuzzy: !1,
         debounceTime: null,
-        exclude: [],
+        exclude: ["html", "json", "404"],
       },
       n;
     const e = function (t, e) {
