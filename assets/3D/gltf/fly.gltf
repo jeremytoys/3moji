@@ -158,16 +158,16 @@
         {
             "alphaMode" : "BLEND",
             "doubleSided" : true,
-            "name" : "Transpatent",
+            "name" : "Transparent",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
                     0.9072647094726562,
                     0.9472811222076416,
                     1,
-                    1
+                    0.10000000149011612
                 ],
                 "metallicFactor" : 0,
-                "roughnessFactor" : 0.12272727489471436
+                "roughnessFactor" : 0.05000000447034836
             }
         },
         {

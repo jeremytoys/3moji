@@ -28,6 +28,9 @@ with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile:
         if 'animals&nature' in row['file-info']: 
             output_filename = './pages/animals&nature/' + row['filename']
 
+        if 'food&drink' in row['file-info']: 
+            output_filename = './pages/food&drink/' + row['filename']
+
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 
             outfile.write(row['file-info'])
 
