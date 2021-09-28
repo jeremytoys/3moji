@@ -1,6 +1,6 @@
 ---
 layout: people&body
 title: Mrs. Claus
-emoji: Mrs_Claus
+emoji: mrs_claus
 permalink: 🤶.html
 ---

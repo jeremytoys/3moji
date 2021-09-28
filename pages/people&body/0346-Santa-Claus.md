@@ -1,6 +1,6 @@
 ---
 layout: people&body
 title: Santa Claus
-emoji: Santa_Claus
+emoji: santa_claus
 permalink: 🎅.html
 ---
