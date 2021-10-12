@@ -356,13 +356,6 @@ body {
     text-align: left;
   }
   
-  
-  /* .dropdown:hover{
-    background-color: rgb(255, 192, 57);
-    color: rgb(0, 0, 0);
-  } */
-  
-  
   .topnav a:hover {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 192, 57);
@@ -371,6 +364,15 @@ body {
   .dropdown-content a:hover {
     background-color: rgb(255, 214, 125);
     color: black;
+  }
+
+  .inactivemenu {
+    color:rgb(85, 85, 85);
+    float: none;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
   }
   
   /* .dropdown:hover .dropdown-content {

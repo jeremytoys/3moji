@@ -31,11 +31,14 @@ with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile:
         if 'food&drink' in row['file-info']: 
             output_filename = './pages/food&drink/' + row['filename']
 
+        if 'travel&places' in row['file-info']: 
+            output_filename = './pages/travel&places/' + row['filename']
+        
+        if 'travel&places' in row['file-info']: 
+            output_filename = './pages/travel&places/' + row['filename']
+
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 
             outfile.write(row['file-info'])
-
-
-
 
 
 
