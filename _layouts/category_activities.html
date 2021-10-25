@@ -10,7 +10,7 @@ layout: default
 
 <div class="imagegrid">
   <br>
-  <div class="subhead"><h2>Activity - Not done yet!</h2></div>
+  <div class="subhead"><h2>Activities</h2></div>
 
   <!-- {% if page.emoji %}
   <div class="griddiv"><a href="pages/{{ page.emoji | escape }}.html"><img class="gridimage" src="assets/img/Smileys&People/{{ page.emoji | escape }}.png" alt="picture of 3moji"/></a></div>
@@ -21,7 +21,7 @@ layout: default
 
 {% for page in site.pages %}
 
-  {% if page.layout == 'activity' %}
+  {% if page.layout == 'activities' %}
  
     <div class="griddiv"><a href="{{ page.url }}"><img class="gridimage" src="assets/img/3moji/{{ page.emoji }}.png" alt="{{ page.title }}"/></a></div>
 

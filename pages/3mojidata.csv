@@ -5603,10 +5603,10 @@ title: five-thirty
 emoji: five_thirty
 permalink: 🕠.html
 ---",five-thirty🕠
-0935,U+1F555,six-o’clock,0935-six-o’clock.md,six_o’clock,🕕,permalink: 🕕.html,six o’clock,"---
+0935,U+1F555,six-o’clock,0935-six-o’clock.md,six_oclock,🕕,permalink: 🕕.html,six o’clock,"---
 layout: travel&places
 title: six o’clock
-emoji: six_o’clock
+emoji: six_oclock
 permalink: 🕕.html
 ---",six o’clock🕕
 0936,U+1F561,six-thirty,0936-six-thirty.md,six_thirty,🕡,permalink: 🕡.html,six-thirty,"---
@@ -5957,90 +5957,510 @@ title: water wave
 emoji: water_wave
 permalink: 🌊.html
 ---",water wave🌊
-0994,U+1F383,jack-o-lantern,0994-jack-o-lantern.md,jack_o_lantern,🎃,permalink: 🎃.html,jack-o-lantern,,jack-o-lantern🎃
-0995,U+1F384,Christmas-tree,0995-Christmas-tree.md,Christmas_tree,🎄,permalink: 🎄.html,Christmas tree,,Christmas tree🎄
-0996,U+1F386,fireworks,0996-fireworks.md,fireworks,🎆,permalink: 🎆.html,fireworks,,fireworks🎆
-0997,U+1F387,sparkler,0997-sparkler.md,sparkler,🎇,permalink: 🎇.html,sparkler,,sparkler🎇
-0998,U+1F9E8,firecracker,0998-firecracker.md,firecracker,🧨,permalink: 🧨.html,firecracker,,firecracker🧨
-0999,U+2728,sparkles,0999-sparkles.md,sparkles,✨,permalink: ✨.html,sparkles,,sparkles✨
-1000,U+1F388,balloon,1000-balloon.md,balloon,🎈,permalink: 🎈.html,balloon,,balloon🎈
-1001,U+1F389,party-popper,1001-party-popper.md,party_popper,🎉,permalink: 🎉.html,party popper,,party popper🎉
-1002,U+1F38A,confetti-ball,1002-confetti-ball.md,confetti_ball,🎊,permalink: 🎊.html,confetti ball,,confetti ball🎊
-1003,U+1F38B,tanabata-tree,1003-tanabata-tree.md,tanabata_tree,🎋,permalink: 🎋.html,tanabata tree,,tanabata tree🎋
-1004,U+1F38D,pine-decoration,1004-pine-decoration.md,pine_decoration,🎍,permalink: 🎍.html,pine decoration,,pine decoration🎍
-1005,U+1F38E,japanese-dolls,1005-japanese-dolls.md,japanese_dolls,🎎,permalink: 🎎.html,Japanese dolls,,Japanese dolls🎎
-1006,U+1F38F,carp-streamer,1006-carp-streamer.md,carp_streamer,🎏,permalink: 🎏.html,carp streamer,,carp streamer🎏
-1007,U+1F390,wind-chime,1007-wind-chime.md,wind_chime,🎐,permalink: 🎐.html,wind chime,,wind chime🎐
-1008,U+1F391,moon-viewing-ceremony,1008-moon-viewing-ceremony.md,moon_viewing_ceremony,🎑,permalink: 🎑.html,moon viewing ceremony,,moon viewing ceremony🎑
-1009,U+1F9E7,red-envelope,1009-red-envelope.md,red_envelope,🧧,permalink: 🧧.html,red envelope,,red envelope🧧
-1010,U+1F380,ribbon,1010-ribbon.md,ribbon,🎀,permalink: 🎀.html,ribbon,,ribbon🎀
-1011,U+1F381,wrapped-gift,1011-wrapped-gift.md,wrapped_gift,🎁,permalink: 🎁.html,wrapped gift,,wrapped gift🎁
-1012,U+1F397,reminder-ribbon,1012-reminder-ribbon.md,reminder_ribbon,🎗,permalink: 🎗.html,reminder ribbon,,reminder ribbon🎗
-1013,U+1F39F,admission-tickets,1013-admission-tickets.md,admission_tickets,🎟,permalink: 🎟.html,admission tickets,,admission tickets🎟
-1014,U+1F3AB,ticket,1014-ticket.md,ticket,🎫,permalink: 🎫.html,ticket,,ticket🎫
-1015,U+1F396,military-medal,1015-military-medal.md,military_medal,🎖,permalink: 🎖.html,military medal,,military medal🎖
-1016,U+1F3C6,trophy,1016-trophy.md,trophy,🏆,permalink: 🏆.html,trophy,,trophy🏆
-1017,U+1F3C5,sports-medal,1017-sports-medal.md,sports_medal,🏅,permalink: 🏅.html,sports medal,,sports medal🏅
-1018,U+1F947,1st-place-medal,1018-1st-place-medal.md,1st_place_medal,🥇,permalink: 🥇.html,1st place medal,,1st place medal🥇
-1019,U+1F948,2nd-place-medal,1019-2nd-place-medal.md,2nd_place_medal,🥈,permalink: 🥈.html,2nd place medal,,2nd place medal🥈
-1020,U+1F949,3rd-place-medal,1020-3rd-place-medal.md,3rd_place_medal,🥉,permalink: 🥉.html,3rd place medal,,3rd place medal🥉
-1021,U+26BD,soccer-ball,1021-soccer-ball.md,soccer_ball,⚽,permalink: ⚽.html,soccer ball,,soccer ball⚽
-1022,U+26BE,baseball,1022-baseball.md,baseball,⚾,permalink: ⚾.html,baseball,,baseball⚾
-1023,U+1F94E,softball,1023-softball.md,softball,🥎,permalink: 🥎.html,softball,,softball🥎
-1024,U+1F3C0,basketball,1024-basketball.md,basketball,🏀,permalink: 🏀.html,basketball,,basketball🏀
-1025,U+1F3D0,volleyball,1025-volleyball.md,volleyball,🏐,permalink: 🏐.html,volleyball,,volleyball🏐
-1026,U+1F3C8,american-football,1026-american-football.md,american_football,🏈,permalink: 🏈.html,american football,,american football🏈
-1027,U+1F3C9,rugby-football,1027-rugby-football.md,rugby_football,🏉,permalink: 🏉.html,rugby football,,rugby football🏉
-1028,U+1F3BE,tennis,1028-tennis.md,tennis,🎾,permalink: 🎾.html,tennis,,tennis🎾
-1029,U+1F94F,flying-disc,1029-flying-disc.md,flying_disc,🥏,permalink: 🥏.html,flying disc,,flying disc🥏
-1030,U+1F3B3,bowling,1030-bowling.md,bowling,🎳,permalink: 🎳.html,bowling,,bowling🎳
-1031,U+1F3CF,cricket-game,1031-cricket-game.md,cricket_game,🏏,permalink: 🏏.html,cricket game,,cricket game🏏
-1032,U+1F3D1,field-hockey,1032-field-hockey.md,field_hockey,🏑,permalink: 🏑.html,field hockey,,field hockey🏑
-1033,U+1F3D2,ice-hockey,1033-ice-hockey.md,ice_hockey,🏒,permalink: 🏒.html,ice hockey,,ice hockey🏒
-1034,U+1F94D,lacrosse,1034-lacrosse.md,lacrosse,🥍,permalink: 🥍.html,lacrosse,,lacrosse🥍
-1035,U+1F3D3,ping-pong,1035-ping-pong.md,ping_pong,🏓,permalink: 🏓.html,ping pong,,ping pong🏓
-1036,U+1F3F8,badminton,1036-badminton.md,badminton,🏸,permalink: 🏸.html,badminton,,badminton🏸
-1037,U+1F94A,boxing-glove,1037-boxing-glove.md,boxing_glove,🥊,permalink: 🥊.html,boxing glove,,boxing glove🥊
-1038,U+1F94B,martial-arts-uniform,1038-martial-arts-uniform.md,martial_arts_uniform,🥋,permalink: 🥋.html,martial arts uniform,,martial arts uniform🥋
-1039,U+1F945,goal-net,1039-goal-net.md,goal_net,🥅,permalink: 🥅.html,goal net,,goal net🥅
-1040,U+26F3,flag-in-hole,1040-flag-in-hole.md,flag_in_hole,⛳,permalink: ⛳.html,flag in hole,,flag in hole⛳
-1041,U+26F8,ice-skate,1041-ice-skate.md,ice_skate,⛸,permalink: ⛸.html,ice skate,,ice skate⛸
-1042,U+1F3A3,fishing-pole,1042-fishing-pole.md,fishing_pole,🎣,permalink: 🎣.html,fishing pole,,fishing pole🎣
-1043,U+1F93F,diving-mask,1043-diving-mask.md,diving_mask,🤿,permalink: 🤿.html,diving mask,,diving mask🤿
-1044,U+1F3BD,running-shirt,1044-running-shirt.md,running_shirt,🎽,permalink: 🎽.html,running shirt,,running shirt🎽
-1045,U+1F3BF,skis,1045-skis.md,skis,🎿,permalink: 🎿.html,skis,,skis🎿
-1046,U+1F6F7,sled,1046-sled.md,sled,🛷,permalink: 🛷.html,sled,,sled🛷
-1047,U+1F94C,curling-stone,1047-curling-stone.md,curling_stone,🥌,permalink: 🥌.html,curling stone,,curling stone🥌
-1048,U+1F3AF,bullseye,1048-bullseye.md,bullseye,🎯,permalink: 🎯.html,bullseye,,bullseye🎯
-1049,U+1FA80,yo-yo,1049-yo-yo.md,yo_yo,🪀,permalink: 🪀.html,yo-yo,,yo-yo🪀
-1050,U+1FA81,kite,1050-kite.md,kite,🪁,permalink: 🪁.html,kite,,kite🪁
-1051,U+1F3B1,pool-8-ball,1051-pool-8-ball.md,pool_8_ball,🎱,permalink: 🎱.html,pool 8 ball,,pool 8 ball🎱
-1052,U+1F52E,crystal-ball,1052-crystal-ball.md,crystal_ball,🔮,permalink: 🔮.html,crystal ball,,crystal ball🔮
-1053,U+1FA84,magic-wand,1053-magic-wand.md,magic_wand,🪄,permalink: 🪄.html,magic wand,,magic wand🪄
-1054,U+1F9FF,nazar-amulet,1054-nazar-amulet.md,nazar_amulet,🧿,permalink: 🧿.html,nazar amulet,,nazar amulet🧿
-1055,U+1F3AE,video-game,1055-video-game.md,video_game,🎮,permalink: 🎮.html,video game,,video game🎮
-1056,U+1F579,joystick,1056-joystick.md,joystick,🕹,permalink: 🕹.html,joystick,,joystick🕹
-1057,U+1F3B0,slot-machine,1057-slot-machine.md,slot_machine,🎰,permalink: 🎰.html,slot machine,,slot machine🎰
-1058,U+1F3B2,game-die,1058-game-die.md,game_die,🎲,permalink: 🎲.html,game die,,game die🎲
-1059,U+1F9E9,puzzle-piece,1059-puzzle-piece.md,puzzle_piece,🧩,permalink: 🧩.html,puzzle piece,,puzzle piece🧩
-1060,U+1F9F8,teddy-bear,1060-teddy-bear.md,teddy_bear,🧸,permalink: 🧸.html,teddy bear,,teddy bear🧸
-1061,U+1FA85,pinata,1061-pinata.md,piñata,🪅,permalink: 🪅.html,piñata,,piñata🪅
-1062,U+1FA86,nesting-dolls,1062-nesting-dolls.md,nesting_dolls,🪆,permalink: 🪆.html,nesting dolls,,nesting dolls🪆
-1063,U+2660,spade-suit,1063-spade-suit.md,spade_suit,♠,permalink: ♠.html,spade suit,,spade suit♠
-1064,U+2665,heart-suit,1064-heart-suit.md,heart_suit,♥,permalink: ♥.html,heart suit,,heart suit♥
-1065,U+2666,diamond-suit,1065-diamond-suit.md,diamond_suit,♦,permalink: ♦.html,diamond suit,,diamond suit♦
-1066,U+2663,club-suit,1066-club-suit.md,club_suit,♣,permalink: ♣.html,club suit,,club suit♣
-1067,U+265F,chess-pawn,1067-chess-pawn.md,chess_pawn,♟,permalink: ♟.html,chess pawn,,chess pawn♟
-1068,U+1F0CF,joker,1068-joker.md,joker,🃏,permalink: 🃏.html,joker,,joker🃏
-1069,U+1F004,mahjong-red-dragon,1069-mahjong-red-dragon.md,mahjong_red_dragon,🀄,permalink: 🀄.html,mahjong red dragon,,mahjong red dragon🀄
-1070,U+1F3B4,flower-playing-cards,1070-flower-playing-cards.md,flower_playing_cards,🎴,permalink: 🎴.html,flower playing cards,,flower playing cards🎴
-1071,U+1F3AD,performing-arts,1071-performing-arts.md,performing_arts,🎭,permalink: 🎭.html,performing arts,,performing arts🎭
-1072,U+1F5BC,framed-picture,1072-framed-picture.md,framed_picture,🖼,permalink: 🖼.html,framed picture,,framed picture🖼
-1073,U+1F3A8,artist-palette,1073-artist-palette.md,artist_palette,🎨,permalink: 🎨.html,artist palette,,artist palette🎨
-1074,U+1F9F5,thread,1074-thread.md,thread,🧵,permalink: 🧵.html,thread,,thread🧵
-1075,U+1FAA1,sewing-needle,1075-sewing-needle.md,sewing_needle,🪡,permalink: 🪡.html,sewing needle,,sewing needle🪡
-1076,U+1F9F6,yarn,1076-yarn.md,yarn,🧶,permalink: 🧶.html,yarn,,yarn🧶
-1077,U+1FAA2,knot,1077-knot.md,knot,🪢,permalink: 🪢.html,knot,,knot🪢
+0994,U+1F383,jack-o-lantern,0994-jack-o-lantern.md,jack_o_lantern,🎃,permalink: 🎃.html,jack-o-lantern,"---
+layout: activities
+title: jack-o-lantern
+emoji: jack_o_lantern
+permalink: 🎃.html
+---",jack-o-lantern🎃
+0995,U+1F384,Christmas-tree,0995-Christmas-tree.md,Christmas_tree,🎄,permalink: 🎄.html,Christmas tree,"---
+layout: activities
+title: Christmas tree
+emoji: Christmas_tree
+permalink: 🎄.html
+---",Christmas tree🎄
+0996,U+1F386,fireworks,0996-fireworks.md,fireworks,🎆,permalink: 🎆.html,fireworks,"---
+layout: activities
+title: fireworks
+emoji: fireworks
+permalink: 🎆.html
+---",fireworks🎆
+0997,U+1F387,sparkler,0997-sparkler.md,sparkler,🎇,permalink: 🎇.html,sparkler,"---
+layout: activities
+title: sparkler
+emoji: sparkler
+permalink: 🎇.html
+---",sparkler🎇
+0998,U+1F9E8,firecracker,0998-firecracker.md,firecracker,🧨,permalink: 🧨.html,firecracker,"---
+layout: activities
+title: firecracker
+emoji: firecracker
+permalink: 🧨.html
+---",firecracker🧨
+0999,U+2728,sparkles,0999-sparkles.md,sparkles,✨,permalink: ✨.html,sparkles,"---
+layout: activities
+title: sparkles
+emoji: sparkles
+permalink: ✨.html
+---",sparkles✨
+1000,U+1F388,balloon,1000-balloon.md,balloon,🎈,permalink: 🎈.html,balloon,"---
+layout: activities
+title: balloon
+emoji: balloon
+permalink: 🎈.html
+---",balloon🎈
+1001,U+1F389,party-popper,1001-party-popper.md,party_popper,🎉,permalink: 🎉.html,party popper,"---
+layout: activities
+title: party popper
+emoji: party_popper
+permalink: 🎉.html
+---",party popper🎉
+1002,U+1F38A,confetti-ball,1002-confetti-ball.md,confetti_ball,🎊,permalink: 🎊.html,confetti ball,"---
+layout: activities
+title: confetti ball
+emoji: confetti_ball
+permalink: 🎊.html
+---",confetti ball🎊
+1003,U+1F38B,tanabata-tree,1003-tanabata-tree.md,tanabata_tree,🎋,permalink: 🎋.html,tanabata tree,"---
+layout: activities
+title: tanabata tree
+emoji: tanabata_tree
+permalink: 🎋.html
+---",tanabata tree🎋
+1004,U+1F38D,pine-decoration,1004-pine-decoration.md,pine_decoration,🎍,permalink: 🎍.html,pine decoration,"---
+layout: activities
+title: pine decoration
+emoji: pine_decoration
+permalink: 🎍.html
+---",pine decoration🎍
+1005,U+1F38E,japanese-dolls,1005-japanese-dolls.md,japanese_dolls,🎎,permalink: 🎎.html,Japanese dolls,"---
+layout: activities
+title: Japanese dolls
+emoji: japanese_dolls
+permalink: 🎎.html
+---",Japanese dolls🎎
+1006,U+1F38F,carp-streamer,1006-carp-streamer.md,carp_streamer,🎏,permalink: 🎏.html,carp streamer,"---
+layout: activities
+title: carp streamer
+emoji: carp_streamer
+permalink: 🎏.html
+---",carp streamer🎏
+1007,U+1F390,wind-chime,1007-wind-chime.md,wind_chime,🎐,permalink: 🎐.html,wind chime,"---
+layout: activities
+title: wind chime
+emoji: wind_chime
+permalink: 🎐.html
+---",wind chime🎐
+1008,U+1F391,moon-viewing-ceremony,1008-moon-viewing-ceremony.md,moon_viewing_ceremony,🎑,permalink: 🎑.html,moon viewing ceremony,"---
+layout: activities
+title: moon viewing ceremony
+emoji: moon_viewing_ceremony
+permalink: 🎑.html
+---",moon viewing ceremony🎑
+1009,U+1F9E7,red-envelope,1009-red-envelope.md,red_envelope,🧧,permalink: 🧧.html,red envelope,"---
+layout: activities
+title: red envelope
+emoji: red_envelope
+permalink: 🧧.html
+---",red envelope🧧
+1010,U+1F380,ribbon,1010-ribbon.md,ribbon,🎀,permalink: 🎀.html,ribbon,"---
+layout: activities
+title: ribbon
+emoji: ribbon
+permalink: 🎀.html
+---",ribbon🎀
+1011,U+1F381,wrapped-gift,1011-wrapped-gift.md,wrapped_gift,🎁,permalink: 🎁.html,wrapped gift,"---
+layout: activities
+title: wrapped gift
+emoji: wrapped_gift
+permalink: 🎁.html
+---",wrapped gift🎁
+1012,U+1F397,reminder-ribbon,1012-reminder-ribbon.md,reminder_ribbon,🎗,permalink: 🎗.html,reminder ribbon,"---
+layout: activities
+title: reminder ribbon
+emoji: reminder_ribbon
+permalink: 🎗.html
+---",reminder ribbon🎗
+1013,U+1F39F,admission-tickets,1013-admission-tickets.md,admission_tickets,🎟,permalink: 🎟.html,admission tickets,"---
+layout: activities
+title: admission tickets
+emoji: admission_tickets
+permalink: 🎟.html
+---",admission tickets🎟
+1014,U+1F3AB,ticket,1014-ticket.md,ticket,🎫,permalink: 🎫.html,ticket,"---
+layout: activities
+title: ticket
+emoji: ticket
+permalink: 🎫.html
+---",ticket🎫
+1015,U+1F396,military-medal,1015-military-medal.md,military_medal,🎖,permalink: 🎖.html,military medal,"---
+layout: activities
+title: military medal
+emoji: military_medal
+permalink: 🎖.html
+---",military medal🎖
+1016,U+1F3C6,trophy,1016-trophy.md,trophy,🏆,permalink: 🏆.html,trophy,"---
+layout: activities
+title: trophy
+emoji: trophy
+permalink: 🏆.html
+---",trophy🏆
+1017,U+1F3C5,sports-medal,1017-sports-medal.md,sports_medal,🏅,permalink: 🏅.html,sports medal,"---
+layout: activities
+title: sports medal
+emoji: sports_medal
+permalink: 🏅.html
+---",sports medal🏅
+1018,U+1F947,1st-place-medal,1018-1st-place-medal.md,1st_place_medal,🥇,permalink: 🥇.html,1st place medal,"---
+layout: activities
+title: 1st place medal
+emoji: 1st_place_medal
+permalink: 🥇.html
+---",1st place medal🥇
+1019,U+1F948,2nd-place-medal,1019-2nd-place-medal.md,2nd_place_medal,🥈,permalink: 🥈.html,2nd place medal,"---
+layout: activities
+title: 2nd place medal
+emoji: 2nd_place_medal
+permalink: 🥈.html
+---",2nd place medal🥈
+1020,U+1F949,3rd-place-medal,1020-3rd-place-medal.md,3rd_place_medal,🥉,permalink: 🥉.html,3rd place medal,"---
+layout: activities
+title: 3rd place medal
+emoji: 3rd_place_medal
+permalink: 🥉.html
+---",3rd place medal🥉
+1021,U+26BD,soccer-ball,1021-soccer-ball.md,soccer_ball,⚽,permalink: ⚽.html,soccer ball,"---
+layout: activities
+title: soccer ball
+emoji: soccer_ball
+permalink: ⚽.html
+---",soccer ball⚽
+1022,U+26BE,baseball,1022-baseball.md,baseball,⚾,permalink: ⚾.html,baseball,"---
+layout: activities
+title: baseball
+emoji: baseball
+permalink: ⚾.html
+---",baseball⚾
+1023,U+1F94E,softball,1023-softball.md,softball,🥎,permalink: 🥎.html,softball,"---
+layout: activities
+title: softball
+emoji: softball
+permalink: 🥎.html
+---",softball🥎
+1024,U+1F3C0,basketball,1024-basketball.md,basketball,🏀,permalink: 🏀.html,basketball,"---
+layout: activities
+title: basketball
+emoji: basketball
+permalink: 🏀.html
+---",basketball🏀
+1025,U+1F3D0,volleyball,1025-volleyball.md,volleyball,🏐,permalink: 🏐.html,volleyball,"---
+layout: activities
+title: volleyball
+emoji: volleyball
+permalink: 🏐.html
+---",volleyball🏐
+1026,U+1F3C8,american-football,1026-american-football.md,american_football,🏈,permalink: 🏈.html,american football,"---
+layout: activities
+title: american football
+emoji: american_football
+permalink: 🏈.html
+---",american football🏈
+1027,U+1F3C9,rugby-football,1027-rugby-football.md,rugby_football,🏉,permalink: 🏉.html,rugby football,"---
+layout: activities
+title: rugby football
+emoji: rugby_football
+permalink: 🏉.html
+---",rugby football🏉
+1028,U+1F3BE,tennis,1028-tennis.md,tennis,🎾,permalink: 🎾.html,tennis,"---
+layout: activities
+title: tennis
+emoji: tennis
+permalink: 🎾.html
+---",tennis🎾
+1029,U+1F94F,flying-disc,1029-flying-disc.md,flying_disc,🥏,permalink: 🥏.html,flying disc,"---
+layout: activities
+title: flying disc
+emoji: flying_disc
+permalink: 🥏.html
+---",flying disc🥏
+1030,U+1F3B3,bowling,1030-bowling.md,bowling,🎳,permalink: 🎳.html,bowling,"---
+layout: activities
+title: bowling
+emoji: bowling
+permalink: 🎳.html
+---",bowling🎳
+1031,U+1F3CF,cricket-game,1031-cricket-game.md,cricket_game,🏏,permalink: 🏏.html,cricket game,"---
+layout: activities
+title: cricket game
+emoji: cricket_game
+permalink: 🏏.html
+---",cricket game🏏
+1032,U+1F3D1,field-hockey,1032-field-hockey.md,field_hockey,🏑,permalink: 🏑.html,field hockey,"---
+layout: activities
+title: field hockey
+emoji: field_hockey
+permalink: 🏑.html
+---",field hockey🏑
+1033,U+1F3D2,ice-hockey,1033-ice-hockey.md,ice_hockey,🏒,permalink: 🏒.html,ice hockey,"---
+layout: activities
+title: ice hockey
+emoji: ice_hockey
+permalink: 🏒.html
+---",ice hockey🏒
+1034,U+1F94D,lacrosse,1034-lacrosse.md,lacrosse,🥍,permalink: 🥍.html,lacrosse,"---
+layout: activities
+title: lacrosse
+emoji: lacrosse
+permalink: 🥍.html
+---",lacrosse🥍
+1035,U+1F3D3,ping-pong,1035-ping-pong.md,ping_pong,🏓,permalink: 🏓.html,ping pong,"---
+layout: activities
+title: ping pong
+emoji: ping_pong
+permalink: 🏓.html
+---",ping pong🏓
+1036,U+1F3F8,badminton,1036-badminton.md,badminton,🏸,permalink: 🏸.html,badminton,"---
+layout: activities
+title: badminton
+emoji: badminton
+permalink: 🏸.html
+---",badminton🏸
+1037,U+1F94A,boxing-glove,1037-boxing-glove.md,boxing_glove,🥊,permalink: 🥊.html,boxing glove,"---
+layout: activities
+title: boxing glove
+emoji: boxing_glove
+permalink: 🥊.html
+---",boxing glove🥊
+1038,U+1F94B,martial-arts-uniform,1038-martial-arts-uniform.md,martial_arts_uniform,🥋,permalink: 🥋.html,martial arts uniform,"---
+layout: activities
+title: martial arts uniform
+emoji: martial_arts_uniform
+permalink: 🥋.html
+---",martial arts uniform🥋
+1039,U+1F945,goal-net,1039-goal-net.md,goal_net,🥅,permalink: 🥅.html,goal net,"---
+layout: activities
+title: goal net
+emoji: goal_net
+permalink: 🥅.html
+---",goal net🥅
+1040,U+26F3,flag-in-hole,1040-flag-in-hole.md,flag_in_hole,⛳,permalink: ⛳.html,flag in hole,"---
+layout: activities
+title: flag in hole
+emoji: flag_in_hole
+permalink: ⛳.html
+---",flag in hole⛳
+1041,U+26F8,ice-skate,1041-ice-skate.md,ice_skate,⛸,permalink: ⛸.html,ice skate,"---
+layout: activities
+title: ice skate
+emoji: ice_skate
+permalink: ⛸.html
+---",ice skate⛸
+1042,U+1F3A3,fishing-pole,1042-fishing-pole.md,fishing_pole,🎣,permalink: 🎣.html,fishing pole,"---
+layout: activities
+title: fishing pole
+emoji: fishing_pole
+permalink: 🎣.html
+---",fishing pole🎣
+1043,U+1F93F,diving-mask,1043-diving-mask.md,diving_mask,🤿,permalink: 🤿.html,diving mask,"---
+layout: activities
+title: diving mask
+emoji: diving_mask
+permalink: 🤿.html
+---",diving mask🤿
+1044,U+1F3BD,running-shirt,1044-running-shirt.md,running_shirt,🎽,permalink: 🎽.html,running shirt,"---
+layout: activities
+title: running shirt
+emoji: running_shirt
+permalink: 🎽.html
+---",running shirt🎽
+1045,U+1F3BF,skis,1045-skis.md,skis,🎿,permalink: 🎿.html,skis,"---
+layout: activities
+title: skis
+emoji: skis
+permalink: 🎿.html
+---",skis🎿
+1046,U+1F6F7,sled,1046-sled.md,sled,🛷,permalink: 🛷.html,sled,"---
+layout: activities
+title: sled
+emoji: sled
+permalink: 🛷.html
+---",sled🛷
+1047,U+1F94C,curling-stone,1047-curling-stone.md,curling_stone,🥌,permalink: 🥌.html,curling stone,"---
+layout: activities
+title: curling stone
+emoji: curling_stone
+permalink: 🥌.html
+---",curling stone🥌
+1048,U+1F3AF,bullseye,1048-bullseye.md,bullseye,🎯,permalink: 🎯.html,bullseye,"---
+layout: activities
+title: bullseye
+emoji: bullseye
+permalink: 🎯.html
+---",bullseye🎯
+1049,U+1FA80,yo-yo,1049-yo-yo.md,yo_yo,🪀,permalink: 🪀.html,yo-yo,"---
+layout: activities
+title: yo-yo
+emoji: yo_yo
+permalink: 🪀.html
+---",yo-yo🪀
+1050,U+1FA81,kite,1050-kite.md,kite,🪁,permalink: 🪁.html,kite,"---
+layout: activities
+title: kite
+emoji: kite
+permalink: 🪁.html
+---",kite🪁
+1051,U+1F3B1,pool-8-ball,1051-pool-8-ball.md,pool_8_ball,🎱,permalink: 🎱.html,pool 8 ball,"---
+layout: activities
+title: pool 8 ball
+emoji: pool_8_ball
+permalink: 🎱.html
+---",pool 8 ball🎱
+1052,U+1F52E,crystal-ball,1052-crystal-ball.md,crystal_ball,🔮,permalink: 🔮.html,crystal ball,"---
+layout: activities
+title: crystal ball
+emoji: crystal_ball
+permalink: 🔮.html
+---",crystal ball🔮
+1053,U+1FA84,magic-wand,1053-magic-wand.md,magic_wand,🪄,permalink: 🪄.html,magic wand,"---
+layout: activities
+title: magic wand
+emoji: magic_wand
+permalink: 🪄.html
+---",magic wand🪄
+1054,U+1F9FF,nazar-amulet,1054-nazar-amulet.md,nazar_amulet,🧿,permalink: 🧿.html,nazar amulet,"---
+layout: activities
+title: nazar amulet
+emoji: nazar_amulet
+permalink: 🧿.html
+---",nazar amulet🧿
+1055,U+1F3AE,video-game,1055-video-game.md,video_game,🎮,permalink: 🎮.html,video game,"---
+layout: activities
+title: video game
+emoji: video_game
+permalink: 🎮.html
+---",video game🎮
+1056,U+1F579,joystick,1056-joystick.md,joystick,🕹,permalink: 🕹.html,joystick,"---
+layout: activities
+title: joystick
+emoji: joystick
+permalink: 🕹.html
+---",joystick🕹
+1057,U+1F3B0,slot-machine,1057-slot-machine.md,slot_machine,🎰,permalink: 🎰.html,slot machine,"---
+layout: activities
+title: slot machine
+emoji: slot_machine
+permalink: 🎰.html
+---",slot machine🎰
+1058,U+1F3B2,game-die,1058-game-die.md,game_die,🎲,permalink: 🎲.html,game die,"---
+layout: activities
+title: game die
+emoji: game_die
+permalink: 🎲.html
+---",game die🎲
+1059,U+1F9E9,puzzle-piece,1059-puzzle-piece.md,puzzle_piece,🧩,permalink: 🧩.html,puzzle piece,"---
+layout: activities
+title: puzzle piece
+emoji: puzzle_piece
+permalink: 🧩.html
+---",puzzle piece🧩
+1060,U+1F9F8,teddy-bear,1060-teddy-bear.md,teddy_bear,🧸,permalink: 🧸.html,teddy bear,"---
+layout: activities
+title: teddy bear
+emoji: teddy_bear
+permalink: 🧸.html
+---",teddy bear🧸
+1061,U+1FA85,pinata,1061-pinata.md,pinata,🪅,permalink: 🪅.html,piñata,"---
+layout: activities
+title: piñata
+emoji: pinata
+permalink: 🪅.html
+---",piñata🪅
+1062,U+1FA86,nesting-dolls,1062-nesting-dolls.md,nesting_dolls,🪆,permalink: 🪆.html,nesting dolls,"---
+layout: activities
+title: nesting dolls
+emoji: nesting_dolls
+permalink: 🪆.html
+---",nesting dolls🪆
+1063,U+2660,spade-suit,1063-spade-suit.md,spade_suit,♠,permalink: ♠.html,spade suit,"---
+layout: activities
+title: spade suit
+emoji: spade_suit
+permalink: ♠.html
+---",spade suit♠
+1064,U+2665,heart-suit,1064-heart-suit.md,heart_suit,♥,permalink: ♥.html,heart suit,"---
+layout: activities
+title: heart suit
+emoji: heart_suit
+permalink: ♥.html
+---",heart suit♥
+1065,U+2666,diamond-suit,1065-diamond-suit.md,diamond_suit,♦,permalink: ♦.html,diamond suit,"---
+layout: activities
+title: diamond suit
+emoji: diamond_suit
+permalink: ♦.html
+---",diamond suit♦
+1066,U+2663,club-suit,1066-club-suit.md,club_suit,♣,permalink: ♣.html,club suit,"---
+layout: activities
+title: club suit
+emoji: club_suit
+permalink: ♣.html
+---",club suit♣
+1067,U+265F,chess-pawn,1067-chess-pawn.md,chess_pawn,♟,permalink: ♟.html,chess pawn,"---
+layout: activities
+title: chess pawn
+emoji: chess_pawn
+permalink: ♟.html
+---",chess pawn♟
+1068,U+1F0CF,joker,1068-joker.md,joker,🃏,permalink: 🃏.html,joker,"---
+layout: activities
+title: joker
+emoji: joker
+permalink: 🃏.html
+---",joker🃏
+1069,U+1F004,mahjong-red-dragon,1069-mahjong-red-dragon.md,mahjong_red_dragon,🀄,permalink: 🀄.html,mahjong red dragon,"---
+layout: activities
+title: mahjong red dragon
+emoji: mahjong_red_dragon
+permalink: 🀄.html
+---",mahjong red dragon🀄
+1070,U+1F3B4,flower-playing-cards,1070-flower-playing-cards.md,flower_playing_cards,🎴,permalink: 🎴.html,flower playing cards,"---
+layout: activities
+title: flower playing cards
+emoji: flower_playing_cards
+permalink: 🎴.html
+---",flower playing cards🎴
+1071,U+1F3AD,performing-arts,1071-performing-arts.md,performing_arts,🎭,permalink: 🎭.html,performing arts,"---
+layout: activities
+title: performing arts
+emoji: performing_arts
+permalink: 🎭.html
+---",performing arts🎭
+1072,U+1F5BC,framed-picture,1072-framed-picture.md,framed_picture,🖼,permalink: 🖼.html,framed picture,"---
+layout: activities
+title: framed picture
+emoji: framed_picture
+permalink: 🖼.html
+---",framed picture🖼
+1073,U+1F3A8,artist-palette,1073-artist-palette.md,artist_palette,🎨,permalink: 🎨.html,artist palette,"---
+layout: activities
+title: artist palette
+emoji: artist_palette
+permalink: 🎨.html
+---",artist palette🎨
+1074,U+1F9F5,thread,1074-thread.md,thread,🧵,permalink: 🧵.html,thread,"---
+layout: activities
+title: thread
+emoji: thread
+permalink: 🧵.html
+---",thread🧵
+1075,U+1FAA1,sewing-needle,1075-sewing-needle.md,sewing_needle,🪡,permalink: 🪡.html,sewing needle,"---
+layout: activities
+title: sewing needle
+emoji: sewing_needle
+permalink: 🪡.html
+---",sewing needle🪡
+1076,U+1F9F6,yarn,1076-yarn.md,yarn,🧶,permalink: 🧶.html,yarn,"---
+layout: activities
+title: yarn
+emoji: yarn
+permalink: 🧶.html
+---",yarn🧶
+1077,U+1FAA2,knot,1077-knot.md,knot,🪢,permalink: 🪢.html,knot,"---
+layout: activities
+title: knot
+emoji: knot
+permalink: 🪢.html
+---",knot🪢
 1078,U+1F453,glasses,1078-glasses.md,glasses,👓,permalink: 👓.html,glasses,,glasses👓
 1079,U+1F576,sunglasses,1079-sunglasses.md,sunglasses,🕶,permalink: 🕶.html,sunglasses,,sunglasses🕶
 1080,U+1F97D,goggles,1080-goggles.md,goggles,🥽,permalink: 🥽.html,goggles,,goggles🥽

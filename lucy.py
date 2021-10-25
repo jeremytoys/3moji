@@ -37,6 +37,9 @@ with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile:
         if 'travel&places' in row['file-info']: 
             output_filename = './pages/travel&places/' + row['filename']
 
+        if 'activities' in row['file-info']: 
+            output_filename = './pages/activities/' + row['filename']
+
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 
             outfile.write(row['file-info'])
 
