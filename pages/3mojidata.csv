@@ -6461,256 +6461,1506 @@ title: knot
 emoji: knot
 permalink: 🪢.html
 ---",knot🪢
-1078,U+1F453,glasses,1078-glasses.md,glasses,👓,permalink: 👓.html,glasses,,glasses👓
-1079,U+1F576,sunglasses,1079-sunglasses.md,sunglasses,🕶,permalink: 🕶.html,sunglasses,,sunglasses🕶
-1080,U+1F97D,goggles,1080-goggles.md,goggles,🥽,permalink: 🥽.html,goggles,,goggles🥽
-1081,U+1F97C,lab-coat,1081-lab-coat.md,lab_coat,🥼,permalink: 🥼.html,lab coat,,lab coat🥼
-1082,U+1F9BA,safety-vest,1082-safety-vest.md,safety_vest,🦺,permalink: 🦺.html,safety vest,,safety vest🦺
-1083,U+1F454,necktie,1083-necktie.md,necktie,👔,permalink: 👔.html,necktie,,necktie👔
-1084,U+1F455,t-shirt,1084-t-shirt.md,t_shirt,👕,permalink: 👕.html,t-shirt,,t-shirt👕
-1085,U+1F456,jeans,1085-jeans.md,jeans,👖,permalink: 👖.html,jeans,,jeans👖
-1086,U+1F9E3,scarf,1086-scarf.md,scarf,🧣,permalink: 🧣.html,scarf,,scarf🧣
-1087,U+1F9E4,gloves,1087-gloves.md,gloves,🧤,permalink: 🧤.html,gloves,,gloves🧤
-1088,U+1F9E5,coat,1088-coat.md,coat,🧥,permalink: 🧥.html,coat,,coat🧥
-1089,U+1F9E6,socks,1089-socks.md,socks,🧦,permalink: 🧦.html,socks,,socks🧦
-1090,U+1F457,dress,1090-dress.md,dress,👗,permalink: 👗.html,dress,,dress👗
-1091,U+1F458,kimono,1091-kimono.md,kimono,👘,permalink: 👘.html,kimono,,kimono👘
-1092,U+1F97B,sari,1092-sari.md,sari,🥻,permalink: 🥻.html,sari,,sari🥻
-1093,U+1FA71,one-piece-swimsuit,1093-one-piece-swimsuit.md,one_piece_swimsuit,🩱,permalink: 🩱.html,one-piece swimsuit,,one-piece swimsuit🩱
-1094,U+1FA72,briefs,1094-briefs.md,briefs,🩲,permalink: 🩲.html,briefs,,briefs🩲
-1095,U+1FA73,shorts,1095-shorts.md,shorts,🩳,permalink: 🩳.html,shorts,,shorts🩳
-1096,U+1F459,bikini,1096-bikini.md,bikini,👙,permalink: 👙.html,bikini,,bikini👙
-1097,U+1F45A,woman’s-clothes,1097-woman’s-clothes.md,womans_clothes,👚,permalink: 👚.html,woman’s clothes,,woman’s clothes👚
-1098,U+1F45B,purse,1098-purse.md,purse,👛,permalink: 👛.html,purse,,purse👛
-1099,U+1F45C,handbag,1099-handbag.md,handbag,👜,permalink: 👜.html,handbag,,handbag👜
-1100,U+1F45D,clutch-bag,1100-clutch-bag.md,clutch_bag,👝,permalink: 👝.html,clutch bag,,clutch bag👝
-1101,U+1F6CD,shopping-bags,1101-shopping-bags.md,shopping_bags,🛍,permalink: 🛍.html,shopping bags,,shopping bags🛍
-1102,U+1F392,backpack,1102-backpack.md,backpack,🎒,permalink: 🎒.html,backpack,,backpack🎒
-1103,U+1FA74,thong-sandal,1103-thong-sandal.md,thong_sandal,🩴,permalink: 🩴.html,thong sandal,,thong sandal🩴
-1104,U+1F45E,man’s-shoe,1104-man’s-shoe.md,mans_shoe,👞,permalink: 👞.html,man’s shoe,,man’s shoe👞
-1105,U+1F45F,running-shoe,1105-running-shoe.md,running_shoe,👟,permalink: 👟.html,running shoe,,running shoe👟
-1106,U+1F97E,hiking-boot,1106-hiking-boot.md,hiking_boot,🥾,permalink: 🥾.html,hiking boot,,hiking boot🥾
-1107,U+1F97F,flat-shoe,1107-flat-shoe.md,flat_shoe,🥿,permalink: 🥿.html,flat shoe,,flat shoe🥿
-1108,U+1F460,high-heeled-shoe,1108-high-heeled-shoe.md,high_heeled_shoe,👠,permalink: 👠.html,high-heeled shoe,,high-heeled shoe👠
-1109,U+1F461,womans-sandal,1109-womans-sandal.md,womans_sandal,👡,permalink: 👡.html,woman’s sandal,,woman’s sandal👡
-1110,U+1FA70,ballet-shoes,1110-ballet-shoes.md,ballet_shoes,🩰,permalink: 🩰.html,ballet shoes,,ballet shoes🩰
-1111,U+1F462,womans-boot,1111-womans-boot.md,womans_boot,👢,permalink: 👢.html,woman’s boot,,woman’s boot👢
-1112,U+1F451,crown,1112-crown.md,crown,👑,permalink: 👑.html,crown,,crown👑
-1113,U+1F452,womans-hat,1113-womans-hat.md,womans_hat,👒,permalink: 👒.html,woman’s hat,,woman’s hat👒
-1114,U+1F3A9,top-hat,1114-top-hat.md,top_hat,🎩,permalink: 🎩.html,top hat,,top hat🎩
-1115,U+1F393,graduation-cap,1115-graduation-cap.md,graduation_cap,🎓,permalink: 🎓.html,graduation cap,,graduation cap🎓
-1116,U+1F9E2,billed-cap,1116-billed-cap.md,billed_cap,🧢,permalink: 🧢.html,billed cap,,billed cap🧢
-1117,U+1FA96,military-helmet,1117-military-helmet.md,military_helmet,🪖,permalink: 🪖.html,military helmet,,military helmet🪖
-1118,U+26D1,rescue-workers-helmet,1118-rescue-workers-helmet.md,rescue_workers_helmet,⛑,permalink: ⛑.html,rescue worker’s helmet,,rescue worker’s helmet⛑
-1119,U+1F4FF,prayer-beads,1119-prayer-beads.md,prayer_beads,📿,permalink: 📿.html,prayer beads,,prayer beads📿
-1120,U+1F484,lipstick,1120-lipstick.md,lipstick,💄,permalink: 💄.html,lipstick,,lipstick💄
-1121,U+1F48D,ring,1121-ring.md,ring,💍,permalink: 💍.html,ring,,ring💍
-1122,U+1F48E,gem-stone,1122-gem-stone.md,gem_stone,💎,permalink: 💎.html,gem stone,,gem stone💎
-1123,U+1F507,muted-speaker,1123-muted-speaker.md,muted_speaker,🔇,permalink: 🔇.html,muted speaker,,muted speaker🔇
-1124,U+1F508,speaker-low-volume,1124-speaker-low-volume.md,speaker_low_volume,🔈,permalink: 🔈.html,speaker low volume,,speaker low volume🔈
-1125,U+1F509,speaker-medium-volume,1125-speaker-medium-volume.md,speaker_medium_volume,🔉,permalink: 🔉.html,speaker medium volume,,speaker medium volume🔉
-1126,U+1F50A,speaker-high-volume,1126-speaker-high-volume.md,speaker_high_volume,🔊,permalink: 🔊.html,speaker high volume,,speaker high volume🔊
-1127,U+1F4E2,loudspeaker,1127-loudspeaker.md,loudspeaker,📢,permalink: 📢.html,loudspeaker,,loudspeaker📢
-1128,U+1F4E3,megaphone,1128-megaphone.md,megaphone,📣,permalink: 📣.html,megaphone,,megaphone📣
-1129,U+1F4EF,postal-horn,1129-postal-horn.md,postal_horn,📯,permalink: 📯.html,postal horn,,postal horn📯
-1130,U+1F514,bell,1130-bell.md,bell,🔔,permalink: 🔔.html,bell,,bell🔔
-1131,U+1F515,bell-with-slash,1131-bell-with-slash.md,bell_with_slash,🔕,permalink: 🔕.html,bell with slash,,bell with slash🔕
-1132,U+1F3BC,musical-score,1132-musical-score.md,musical_score,🎼,permalink: 🎼.html,musical score,,musical score🎼
-1133,U+1F3B5,musical-note,1133-musical-note.md,musical_note,🎵,permalink: 🎵.html,musical note,,musical note🎵
-1134,U+1F3B6,musical-notes,1134-musical-notes.md,musical_notes,🎶,permalink: 🎶.html,musical notes,,musical notes🎶
-1135,U+1F399,studio-microphone,1135-studio-microphone.md,studio_microphone,🎙,permalink: 🎙.html,studio microphone,,studio microphone🎙
-1136,U+1F39A,level-slider,1136-level-slider.md,level_slider,🎚,permalink: 🎚.html,level slider,,level slider🎚
-1137,U+1F39B,control-knobs,1137-control-knobs.md,control_knobs,🎛,permalink: 🎛.html,control knobs,,control knobs🎛
-1138,U+1F3A4,microphone,1138-microphone.md,microphone,🎤,permalink: 🎤.html,microphone,,microphone🎤
-1139,U+1F3A7,headphone,1139-headphone.md,headphone,🎧,permalink: 🎧.html,headphone,,headphone🎧
-1140,U+1F4FB,radio,1140-radio.md,radio,📻,permalink: 📻.html,radio,,radio📻
-1141,U+1F3B7,saxophone,1141-saxophone.md,saxophone,🎷,permalink: 🎷.html,saxophone,,saxophone🎷
-1142,U+1FA97,accordion,1142-accordion.md,accordion,🪗,permalink: 🪗.html,accordion,,accordion🪗
-1143,U+1F3B8,guitar,1143-guitar.md,guitar,🎸,permalink: 🎸.html,guitar,,guitar🎸
-1144,U+1F3B9,musical-keyboard,1144-musical-keyboard.md,musical_keyboard,🎹,permalink: 🎹.html,musical keyboard,,musical keyboard🎹
-1145,U+1F3BA,trumpet,1145-trumpet.md,trumpet,🎺,permalink: 🎺.html,trumpet,,trumpet🎺
-1146,U+1F3BB,violin,1146-violin.md,violin,🎻,permalink: 🎻.html,violin,,violin🎻
-1147,U+1FA95,banjo,1147-banjo.md,banjo,🪕,permalink: 🪕.html,banjo,,banjo🪕
-1148,U+1F941,drum,1148-drum.md,drum,🥁,permalink: 🥁.html,drum,,drum🥁
-1149,U+1FA98,long-drum,1149-long-drum.md,long_drum,🪘,permalink: 🪘.html,long drum,,long drum🪘
-1150,U+1F4F1,mobile-phone,1150-mobile-phone.md,mobile_phone,📱,permalink: 📱.html,mobile phone,,mobile phone📱
-1151,U+1F4F2,mobile-phone-with-arrow,1151-mobile-phone-with-arrow.md,mobile_phone_with_arrow,📲,permalink: 📲.html,mobile phone with arrow,,mobile phone with arrow📲
-1152,U+260E,telephone,1152-telephone.md,telephone,☎,permalink: ☎.html,telephone,,telephone☎
-1153,U+1F4DE,telephone-receiver,1153-telephone-receiver.md,telephone_receiver,📞,permalink: 📞.html,telephone receiver,,telephone receiver📞
-1154,U+1F4DF,pager,1154-pager.md,pager,📟,permalink: 📟.html,pager,,pager📟
-1155,U+1F4E0,fax-machine,1155-fax-machine.md,fax_machine,📠,permalink: 📠.html,fax machine,,fax machine📠
-1156,U+1F50B,battery,1156-battery.md,battery,🔋,permalink: 🔋.html,battery,,battery🔋
-1157,U+1F50C,electric-plug,1157-electric-plug.md,electric_plug,🔌,permalink: 🔌.html,electric plug,,electric plug🔌
-1158,U+1F4BB,laptop,1158-laptop.md,laptop,💻,permalink: 💻.html,laptop,,laptop💻
-1159,U+1F5A5,desktop-computer,1159-desktop-computer.md,desktop_computer,🖥,permalink: 🖥.html,desktop computer,,desktop computer🖥
-1160,U+1F5A8,printer,1160-printer.md,printer,🖨,permalink: 🖨.html,printer,,printer🖨
-1161,U+2328,keyboard,1161-keyboard.md,keyboard,⌨,permalink: ⌨.html,keyboard,,keyboard⌨
-1162,U+1F5B1,computer-mouse,1162-computer-mouse.md,computer_mouse,🖱,permalink: 🖱.html,computer mouse,,computer mouse🖱
-1163,U+1F5B2,trackball,1163-trackball.md,trackball,🖲,permalink: 🖲.html,trackball,,trackball🖲
-1164,U+1F4BD,computer-disk,1164-computer-disk.md,computer_disk,💽,permalink: 💽.html,computer disk,,computer disk💽
-1165,U+1F4BE,floppy-disk,1165-floppy-disk.md,floppy_disk,💾,permalink: 💾.html,floppy disk,,floppy disk💾
-1166,U+1F4BF,optical-disk,1166-optical-disk.md,optical_disk,💿,permalink: 💿.html,optical disk,,optical disk💿
-1167,U+1F4C0,dvd,1167-dvd.md,dvd,📀,permalink: 📀.html,dvd,,dvd📀
-1168,U+1F9EE,abacus,1168-abacus.md,abacus,🧮,permalink: 🧮.html,abacus,,abacus🧮
-1169,U+1F3A5,movie-camera,1169-movie-camera.md,movie_camera,🎥,permalink: 🎥.html,movie camera,,movie camera🎥
-1170,U+1F39E,film-frames,1170-film-frames.md,film_frames,🎞,permalink: 🎞.html,film frames,,film frames🎞
-1171,U+1F4FD,film-projector,1171-film-projector.md,film_projector,📽,permalink: 📽.html,film projector,,film projector📽
-1172,U+1F3AC,clapper-board,1172-clapper-board.md,clapper_board,🎬,permalink: 🎬.html,clapper board,,clapper board🎬
-1173,U+1F4FA,television,1173-television.md,television,📺,permalink: 📺.html,television,,television📺
-1174,U+1F4F7,camera,1174-camera.md,camera,📷,permalink: 📷.html,camera,,camera📷
-1175,U+1F4F8,camera-with-flash,1175-camera-with-flash.md,camera_with_flash,📸,permalink: 📸.html,camera with flash,,camera with flash📸
-1176,U+1F4F9,video-camera,1176-video-camera.md,video_camera,📹,permalink: 📹.html,video camera,,video camera📹
-1177,U+1F4FC,videocassette,1177-videocassette.md,videocassette,📼,permalink: 📼.html,videocassette,,videocassette📼
-1178,U+1F50D,magnifying-glass-tilted-left,1178-magnifying-glass-tilted-left.md,magnifying_glass_tilted_left,🔍,permalink: 🔍.html,magnifying glass tilted left,,magnifying glass tilted left🔍
-1179,U+1F50E,magnifying-glass-tilted-right,1179-magnifying-glass-tilted-right.md,magnifying_glass_tilted_right,🔎,permalink: 🔎.html,magnifying glass tilted right,,magnifying glass tilted right🔎
-1180,U+1F56F,candle,1180-candle.md,candle,🕯,permalink: 🕯.html,candle,,candle🕯
-1181,U+1F4A1,light-bulb,1181-light-bulb.md,light_bulb,💡,permalink: 💡.html,light bulb,,light bulb💡
-1182,U+1F526,flashlight,1182-flashlight.md,flashlight,🔦,permalink: 🔦.html,flashlight,,flashlight🔦
-1183,U+1F3EE,red-paper-lantern,1183-red-paper-lantern.md,red_paper_lantern,🏮,permalink: 🏮.html,red paper lantern,,red paper lantern🏮
-1184,U+1FA94,diya-lamp,1184-diya-lamp.md,diya_lamp,🪔,permalink: 🪔.html,diya lamp,,diya lamp🪔
-1185,U+1F4D4,notebook-with-decorative-cover,1185-notebook-with-decorative-cover.md,notebook_with_decorative_cover,📔,permalink: 📔.html,notebook with decorative cover,,notebook with decorative cover📔
-1186,U+1F4D5,closed-book,1186-closed-book.md,closed_book,📕,permalink: 📕.html,closed book,,closed book📕
-1187,U+1F4D6,open-book,1187-open-book.md,open_book,📖,permalink: 📖.html,open book,,open book📖
-1188,U+1F4D7,green-book,1188-green-book.md,green_book,📗,permalink: 📗.html,green book,,green book📗
-1189,U+1F4D8,blue-book,1189-blue-book.md,blue_book,📘,permalink: 📘.html,blue book,,blue book📘
-1190,U+1F4D9,orange-book,1190-orange-book.md,orange_book,📙,permalink: 📙.html,orange book,,orange book📙
-1191,U+1F4DA,books,1191-books.md,books,📚,permalink: 📚.html,books,,books📚
-1192,U+1F4D3,notebook,1192-notebook.md,notebook,📓,permalink: 📓.html,notebook,,notebook📓
-1193,U+1F4D2,ledger,1193-ledger.md,ledger,📒,permalink: 📒.html,ledger,,ledger📒
-1194,U+1F4C3,page-with-curl,1194-page-with-curl.md,page_with_curl,📃,permalink: 📃.html,page with curl,,page with curl📃
-1195,U+1F4DC,scroll,1195-scroll.md,scroll,📜,permalink: 📜.html,scroll,,scroll📜
-1196,U+1F4C4,page-facing-up,1196-page-facing-up.md,page_facing_up,📄,permalink: 📄.html,page facing up,,page facing up📄
-1197,U+1F4F0,newspaper,1197-newspaper.md,newspaper,📰,permalink: 📰.html,newspaper,,newspaper📰
-1198,U+1F5DE,rolled-up-newspaper,1198-rolled-up-newspaper.md,rolled_up_newspaper,🗞,permalink: 🗞.html,rolled-up newspaper,,rolled-up newspaper🗞
-1199,U+1F4D1,bookmark-tabs,1199-bookmark-tabs.md,bookmark_tabs,📑,permalink: 📑.html,bookmark tabs,,bookmark tabs📑
-1200,U+1F516,bookmark,1200-bookmark.md,bookmark,🔖,permalink: 🔖.html,bookmark,,bookmark🔖
-1201,U+1F3F7,label,1201-label.md,label,🏷,permalink: 🏷.html,label,,label🏷
-1202,U+1F4B0,money-bag,1202-money-bag.md,money_bag,💰,permalink: 💰.html,money bag,,money bag💰
-1203,U+1FA99,coin,1203-coin.md,coin,🪙,permalink: 🪙.html,coin,,coin🪙
-1204,U+1F4B4,yen-banknote,1204-yen-banknote.md,yen_banknote,💴,permalink: 💴.html,yen banknote,,yen banknote💴
-1205,U+1F4B5,dollar-banknote,1205-dollar-banknote.md,dollar_banknote,💵,permalink: 💵.html,dollar banknote,,dollar banknote💵
-1206,U+1F4B6,euro-banknote,1206-euro-banknote.md,euro_banknote,💶,permalink: 💶.html,euro banknote,,euro banknote💶
-1207,U+1F4B7,pound-banknote,1207-pound-banknote.md,pound_banknote,💷,permalink: 💷.html,pound banknote,,pound banknote💷
-1208,U+1F4B8,money-with-wings,1208-money-with-wings.md,money_with_wings,💸,permalink: 💸.html,money with wings,,money with wings💸
-1209,U+1F4B3,credit-card,1209-credit-card.md,credit_card,💳,permalink: 💳.html,credit card,,credit card💳
-1210,U+1F9FE,receipt,1210-receipt.md,receipt,🧾,permalink: 🧾.html,receipt,,receipt🧾
-1211,U+1F4B9,chart-increasing-with-yen,1211-chart-increasing-with-yen.md,chart_increasing_with_yen,💹,permalink: 💹.html,chart increasing with yen,,chart increasing with yen💹
-1212,U+2709,envelope,1212-envelope.md,envelope,✉,permalink: ✉.html,envelope,,envelope✉
-1213,U+1F4E7,e-mail,1213-e-mail.md,e_mail,📧,permalink: 📧.html,e-mail,,e-mail📧
-1214,U+1F4E8,incoming-envelope,1214-incoming-envelope.md,incoming_envelope,📨,permalink: 📨.html,incoming envelope,,incoming envelope📨
-1215,U+1F4E9,envelope-with-arrow,1215-envelope-with-arrow.md,envelope_with_arrow,📩,permalink: 📩.html,envelope with arrow,,envelope with arrow📩
-1216,U+1F4E4,outbox-tray,1216-outbox-tray.md,outbox_tray,📤,permalink: 📤.html,outbox tray,,outbox tray📤
-1217,U+1F4E5,inbox-tray,1217-inbox-tray.md,inbox_tray,📥,permalink: 📥.html,inbox tray,,inbox tray📥
-1218,U+1F4E6,package,1218-package.md,package,📦,permalink: 📦.html,package,,package📦
-1219,U+1F4EB,closed-mailbox-with-raised-flag,1219-closed-mailbox-with-raised-flag.md,closed_mailbox_with_raised_flag,📫,permalink: 📫.html,closed mailbox with raised flag,,closed mailbox with raised flag📫
-1220,U+1F4EA,closed-mailbox-with-lowered-flag,1220-closed-mailbox-with-lowered-flag.md,closed_mailbox_with_lowered_flag,📪,permalink: 📪.html,closed mailbox with lowered flag,,closed mailbox with lowered flag📪
-1221,U+1F4EC,open-mailbox-with-raised-flag,1221-open-mailbox-with-raised-flag.md,open_mailbox_with_raised_flag,📬,permalink: 📬.html,open mailbox with raised flag,,open mailbox with raised flag📬
-1222,U+1F4ED,open-mailbox-with-lowered-flag,1222-open-mailbox-with-lowered-flag.md,open_mailbox_with_lowered_flag,📭,permalink: 📭.html,open mailbox with lowered flag,,open mailbox with lowered flag📭
-1223,U+1F4EE,postbox,1223-postbox.md,postbox,📮,permalink: 📮.html,postbox,,postbox📮
-1224,U+1F5F3,ballot-box-with-ballot,1224-ballot-box-with-ballot.md,ballot_box_with_ballot,🗳,permalink: 🗳.html,ballot box with ballot,,ballot box with ballot🗳
-1225,U+270F,pencil,1225-pencil.md,pencil,✏,permalink: ✏.html,pencil,,pencil✏
-1226,U+2712,black-nib,1226-black-nib.md,black_nib,✒,permalink: ✒.html,black nib,,black nib✒
-1227,U+1F58B,fountain-pen,1227-fountain-pen.md,fountain_pen,🖋,permalink: 🖋.html,fountain pen,,fountain pen🖋
-1228,U+1F58A,pen,1228-pen.md,pen,🖊,permalink: 🖊.html,pen,,pen🖊
-1229,U+1F58C,paintbrush,1229-paintbrush.md,paintbrush,🖌,permalink: 🖌.html,paintbrush,,paintbrush🖌
-1230,U+1F58D,crayon,1230-crayon.md,crayon,🖍,permalink: 🖍.html,crayon,,crayon🖍
-1231,U+1F4DD,memo,1231-memo.md,memo,📝,permalink: 📝.html,memo,,memo📝
-1232,U+1F4BC,briefcase,1232-briefcase.md,briefcase,💼,permalink: 💼.html,briefcase,,briefcase💼
-1233,U+1F4C1,file-folder,1233-file-folder.md,file_folder,📁,permalink: 📁.html,file folder,,file folder📁
-1234,U+1F4C2,open-file-folder,1234-open-file-folder.md,open_file_folder,📂,permalink: 📂.html,open file folder,,open file folder📂
-1235,U+1F5C2,card-index-dividers,1235-card-index-dividers.md,card_index_dividers,🗂,permalink: 🗂.html,card index dividers,,card index dividers🗂
-1236,U+1F4C5,calendar,1236-calendar.md,calendar,📅,permalink: 📅.html,calendar,,calendar📅
-1237,U+1F4C6,tear-off-calendar,1237-tear-off-calendar.md,tear_off_calendar,📆,permalink: 📆.html,tear-off calendar,,tear-off calendar📆
-1238,U+1F5D2,spiral-notepad,1238-spiral-notepad.md,spiral_notepad,🗒,permalink: 🗒.html,spiral notepad,,spiral notepad🗒
-1239,U+1F5D3,spiral-calendar,1239-spiral-calendar.md,spiral_calendar,🗓,permalink: 🗓.html,spiral calendar,,spiral calendar🗓
-1240,U+1F4C7,card-index,1240-card-index.md,card_index,📇,permalink: 📇.html,card index,,card index📇
-1241,U+1F4C8,chart-increasing,1241-chart-increasing.md,chart_increasing,📈,permalink: 📈.html,chart increasing,,chart increasing📈
-1242,U+1F4C9,chart-decreasing,1242-chart-decreasing.md,chart_decreasing,📉,permalink: 📉.html,chart decreasing,,chart decreasing📉
-1243,U+1F4CA,bar-chart,1243-bar-chart.md,bar_chart,📊,permalink: 📊.html,bar chart,,bar chart📊
-1244,U+1F4CB,clipboard,1244-clipboard.md,clipboard,📋,permalink: 📋.html,clipboard,,clipboard📋
-1245,U+1F4CC,pushpin,1245-pushpin.md,pushpin,📌,permalink: 📌.html,pushpin,,pushpin📌
-1246,U+1F4CD,round-pushpin,1246-round-pushpin.md,round_pushpin,📍,permalink: 📍.html,round pushpin,,round pushpin📍
-1247,U+1F4CE,paperclip,1247-paperclip.md,paperclip,📎,permalink: 📎.html,paperclip,,paperclip📎
-1248,U+1F587,linked-paperclips,1248-linked-paperclips.md,linked_paperclips,🖇,permalink: 🖇.html,linked paperclips,,linked paperclips🖇
-1249,U+1F4CF,straight-ruler,1249-straight-ruler.md,straight_ruler,📏,permalink: 📏.html,straight ruler,,straight ruler📏
-1250,U+1F4D0,triangular-ruler,1250-triangular-ruler.md,triangular_ruler,📐,permalink: 📐.html,triangular ruler,,triangular ruler📐
-1251,U+2702,scissors,1251-scissors.md,scissors,✂,permalink: ✂.html,scissors,,scissors✂
-1252,U+1F5C3,card-file-box,1252-card-file-box.md,card_file_box,🗃,permalink: 🗃.html,card file box,,card file box🗃
-1253,U+1F5C4,file-cabinet,1253-file-cabinet.md,file_cabinet,🗄,permalink: 🗄.html,file cabinet,,file cabinet🗄
-1254,U+1F5D1,wastebasket,1254-wastebasket.md,wastebasket,🗑,permalink: 🗑.html,wastebasket,,wastebasket🗑
-1255,U+1F512,locked,1255-locked.md,locked,🔒,permalink: 🔒.html,locked,,locked🔒
-1256,U+1F513,unlocked,1256-unlocked.md,unlocked,🔓,permalink: 🔓.html,unlocked,,unlocked🔓
-1257,U+1F50F,locked-with-pen,1257-locked-with-pen.md,locked_with_pen,🔏,permalink: 🔏.html,locked with pen,,locked with pen🔏
-1258,U+1F510,locked-with-key,1258-locked-with-key.md,locked_with_key,🔐,permalink: 🔐.html,locked with key,,locked with key🔐
-1259,U+1F511,key,1259-key.md,key,🔑,permalink: 🔑.html,key,,key🔑
-1260,U+1F5DD,old-key,1260-old-key.md,old_key,🗝,permalink: 🗝.html,old key,,old key🗝
-1261,U+1F528,hammer,1261-hammer.md,hammer,🔨,permalink: 🔨.html,hammer,,hammer🔨
-1262,U+1FA93,axe,1262-axe.md,axe,🪓,permalink: 🪓.html,axe,,axe🪓
-1263,U+26CF,pick,1263-pick.md,pick,⛏,permalink: ⛏.html,pick,,pick⛏
-1264,U+2692,hammer-and-pick,1264-hammer-and-pick.md,hammer_and_pick,⚒,permalink: ⚒.html,hammer and pick,,hammer and pick⚒
-1265,U+1F6E0,hammer-and-wrench,1265-hammer-and-wrench.md,hammer_and_wrench,🛠,permalink: 🛠.html,hammer and wrench,,hammer and wrench🛠
-1266,U+1F5E1,dagger,1266-dagger.md,dagger,🗡,permalink: 🗡.html,dagger,,dagger🗡
-1267,U+2694,crossed-swords,1267-crossed-swords.md,crossed_swords,⚔,permalink: ⚔.html,crossed swords,,crossed swords⚔
-1268,U+1F52B,water-pistol,1268-water-pistol.md,water_pistol,🔫,permalink: 🔫.html,water pistol,,water pistol🔫
-1269,U+1FA83,boomerang,1269-boomerang.md,boomerang,🪃,permalink: 🪃.html,boomerang,,boomerang🪃
-1270,U+1F3F9,bow-and-arrow,1270-bow-and-arrow.md,bow_and_arrow,🏹,permalink: 🏹.html,bow and arrow,,bow and arrow🏹
-1271,U+1F6E1,shield,1271-shield.md,shield,🛡,permalink: 🛡.html,shield,,shield🛡
-1272,U+1FA9A,carpentry-saw,1272-carpentry-saw.md,carpentry_saw,🪚,permalink: 🪚.html,carpentry saw,,carpentry saw🪚
-1273,U+1F527,wrench,1273-wrench.md,wrench,🔧,permalink: 🔧.html,wrench,,wrench🔧
-1274,U+1FA9B,screwdriver,1274-screwdriver.md,screwdriver,🪛,permalink: 🪛.html,screwdriver,,screwdriver🪛
-1275,U+1F529,nut-and-bolt,1275-nut-and-bolt.md,nut_and_bolt,🔩,permalink: 🔩.html,nut and bolt,,nut and bolt🔩
-1276,U+2699,gear,1276-gear.md,gear,⚙,permalink: ⚙.html,gear,,gear⚙
-1277,U+1F5DC,clamp,1277-clamp.md,clamp,🗜,permalink: 🗜.html,clamp,,clamp🗜
-1278,U+2696,balance-scale,1278-balance-scale.md,balance_scale,⚖,permalink: ⚖.html,balance scale,,balance scale⚖
-1279,U+1F9AF,white-cane,1279-white-cane.md,white_cane,🦯,permalink: 🦯.html,white cane,,white cane🦯
-1280,U+1F517,link,1280-link.md,link,🔗,permalink: 🔗.html,link,,link🔗
-1281,U+26D3,chains,1281-chains.md,chains,⛓,permalink: ⛓.html,chains,,chains⛓
-1282,U+1FA9D,hook,1282-hook.md,hook,🪝,permalink: 🪝.html,hook,,hook🪝
-1283,U+1F9F0,toolbox,1283-toolbox.md,toolbox,🧰,permalink: 🧰.html,toolbox,,toolbox🧰
-1284,U+1F9F2,magnet,1284-magnet.md,magnet,🧲,permalink: 🧲.html,magnet,,magnet🧲
-1285,U+1FA9C,ladder,1285-ladder.md,ladder,🪜,permalink: 🪜.html,ladder,,ladder🪜
-1286,U+2697,alembic,1286-alembic.md,alembic,⚗,permalink: ⚗.html,alembic,,alembic⚗
-1287,U+1F9EA,test-tube,1287-test-tube.md,test_tube,🧪,permalink: 🧪.html,test tube,,test tube🧪
-1288,U+1F9EB,petri-dish,1288-petri-dish.md,petri_dish,🧫,permalink: 🧫.html,petri dish,,petri dish🧫
-1289,U+1F9EC,dna,1289-dna.md,dna,🧬,permalink: 🧬.html,dna,,dna🧬
-1290,U+1F52C,microscope,1290-microscope.md,microscope,🔬,permalink: 🔬.html,microscope,,microscope🔬
-1291,U+1F52D,telescope,1291-telescope.md,telescope,🔭,permalink: 🔭.html,telescope,,telescope🔭
-1292,U+1F4E1,satellite-antenna,1292-satellite-antenna.md,satellite_antenna,📡,permalink: 📡.html,satellite antenna,,satellite antenna📡
-1293,U+1F489,syringe,1293-syringe.md,syringe,💉,permalink: 💉.html,syringe,,syringe💉
-1294,U+1FA78,drop-of-blood,1294-drop-of-blood.md,drop_of_blood,🩸,permalink: 🩸.html,drop of blood,,drop of blood🩸
-1295,U+1F48A,pill,1295-pill.md,pill,💊,permalink: 💊.html,pill,,pill💊
-1296,U+1FA79,adhesive-bandage,1296-adhesive-bandage.md,adhesive_bandage,🩹,permalink: 🩹.html,adhesive bandage,,adhesive bandage🩹
-1297,U+1FA7A,stethoscope,1297-stethoscope.md,stethoscope,🩺,permalink: 🩺.html,stethoscope,,stethoscope🩺
-1298,U+1F6AA,door,1298-door.md,door,🚪,permalink: 🚪.html,door,,door🚪
-1299,U+1F6D7,elevator,1299-elevator.md,elevator,🛗,permalink: 🛗.html,elevator,,elevator🛗
-1300,U+1FA9E,mirror,1300-mirror.md,mirror,🪞,permalink: 🪞.html,mirror,,mirror🪞
-1301,U+1FA9F,window,1301-window.md,window,🪟,permalink: 🪟.html,window,,window🪟
-1302,U+1F6CF,bed,1302-bed.md,bed,🛏,permalink: 🛏.html,bed,,bed🛏
-1303,U+1F6CB,couch-and-lamp,1303-couch-and-lamp.md,couch_and_lamp,🛋,permalink: 🛋.html,couch and lamp,,couch and lamp🛋
-1304,U+1FA91,chair,1304-chair.md,chair,🪑,permalink: 🪑.html,chair,,chair🪑
-1305,U+1F6BD,toilet,1305-toilet.md,toilet,🚽,permalink: 🚽.html,toilet,,toilet🚽
-1306,U+1FAA0,plunger,1306-plunger.md,plunger,🪠,permalink: 🪠.html,plunger,,plunger🪠
-1307,U+1F6BF,shower,1307-shower.md,shower,🚿,permalink: 🚿.html,shower,,shower🚿
-1308,U+1F6C1,bathtub,1308-bathtub.md,bathtub,🛁,permalink: 🛁.html,bathtub,,bathtub🛁
-1309,U+1FAA4,mouse-trap,1309-mouse-trap.md,mouse_trap,🪤,permalink: 🪤.html,mouse trap,,mouse trap🪤
-1310,U+1FA92,razor,1310-razor.md,razor,🪒,permalink: 🪒.html,razor,,razor🪒
-1311,U+1F9F4,lotion-bottle,1311-lotion-bottle.md,lotion_bottle,🧴,permalink: 🧴.html,lotion bottle,,lotion bottle🧴
-1312,U+1F9F7,safety-pin,1312-safety-pin.md,safety_pin,🧷,permalink: 🧷.html,safety pin,,safety pin🧷
-1313,U+1F9F9,broom,1313-broom.md,broom,🧹,permalink: 🧹.html,broom,,broom🧹
-1314,U+1F9FA,basket,1314-basket.md,basket,🧺,permalink: 🧺.html,basket,,basket🧺
-1315,U+1F9FB,roll-of-paper,1315-roll-of-paper.md,roll_of_paper,🧻,permalink: 🧻.html,roll of paper,,roll of paper🧻
-1316,U+1FAA3,bucket,1316-bucket.md,bucket,🪣,permalink: 🪣.html,bucket,,bucket🪣
-1317,U+1F9FC,soap,1317-soap.md,soap,🧼,permalink: 🧼.html,soap,,soap🧼
-1318,U+1FAA5,toothbrush,1318-toothbrush.md,toothbrush,🪥,permalink: 🪥.html,toothbrush,,toothbrush🪥
-1319,U+1F9FD,sponge,1319-sponge.md,sponge,🧽,permalink: 🧽.html,sponge,,sponge🧽
-1320,U+1F9EF,fire-extinguisher,1320-fire-extinguisher.md,fire_extinguisher,🧯,permalink: 🧯.html,fire extinguisher,,fire extinguisher🧯
-1321,U+1F6D2,shopping-cart,1321-shopping-cart.md,shopping_cart,🛒,permalink: 🛒.html,shopping cart,,shopping cart🛒
-1322,U+1F6AC,cigarette,1322-cigarette.md,cigarette,🚬,permalink: 🚬.html,cigarette,,cigarette🚬
-1323,U+26B0,coffin,1323-coffin.md,coffin,⚰,permalink: ⚰.html,coffin,,coffin⚰
-1324,U+1FAA6,headstone,1324-headstone.md,headstone,🪦,permalink: 🪦.html,headstone,,headstone🪦
-1325,U+26B1,funeral-urn,1325-funeral-urn.md,funeral_urn,⚱,permalink: ⚱.html,funeral urn,,funeral urn⚱
-1326,U+1F5FF,moai,1326-moai.md,moai,🗿,permalink: 🗿.html,moai,,moai🗿
-1327,U+1FAA7,placard,1327-placard.md,placard,🪧,permalink: 🪧.html,placard,,placard🪧
+1078,U+1F453,glasses,1078-glasses.md,glasses,👓,permalink: 👓.html,glasses,"---
+layout: objects
+title: glasses
+emoji: glasses
+permalink: 👓.html
+---",glasses👓
+1079,U+1F576,sunglasses,1079-sunglasses.md,sunglasses,🕶,permalink: 🕶.html,sunglasses,"---
+layout: objects
+title: sunglasses
+emoji: sunglasses
+permalink: 🕶.html
+---",sunglasses🕶
+1080,U+1F97D,goggles,1080-goggles.md,goggles,🥽,permalink: 🥽.html,goggles,"---
+layout: objects
+title: goggles
+emoji: goggles
+permalink: 🥽.html
+---",goggles🥽
+1081,U+1F97C,lab-coat,1081-lab-coat.md,lab_coat,🥼,permalink: 🥼.html,lab coat,"---
+layout: objects
+title: lab coat
+emoji: lab_coat
+permalink: 🥼.html
+---",lab coat🥼
+1082,U+1F9BA,safety-vest,1082-safety-vest.md,safety_vest,🦺,permalink: 🦺.html,safety vest,"---
+layout: objects
+title: safety vest
+emoji: safety_vest
+permalink: 🦺.html
+---",safety vest🦺
+1083,U+1F454,necktie,1083-necktie.md,necktie,👔,permalink: 👔.html,necktie,"---
+layout: objects
+title: necktie
+emoji: necktie
+permalink: 👔.html
+---",necktie👔
+1084,U+1F455,t-shirt,1084-t-shirt.md,t_shirt,👕,permalink: 👕.html,t-shirt,"---
+layout: objects
+title: t-shirt
+emoji: t_shirt
+permalink: 👕.html
+---",t-shirt👕
+1085,U+1F456,jeans,1085-jeans.md,jeans,👖,permalink: 👖.html,jeans,"---
+layout: objects
+title: jeans
+emoji: jeans
+permalink: 👖.html
+---",jeans👖
+1086,U+1F9E3,scarf,1086-scarf.md,scarf,🧣,permalink: 🧣.html,scarf,"---
+layout: objects
+title: scarf
+emoji: scarf
+permalink: 🧣.html
+---",scarf🧣
+1087,U+1F9E4,gloves,1087-gloves.md,gloves,🧤,permalink: 🧤.html,gloves,"---
+layout: objects
+title: gloves
+emoji: gloves
+permalink: 🧤.html
+---",gloves🧤
+1088,U+1F9E5,coat,1088-coat.md,coat,🧥,permalink: 🧥.html,coat,"---
+layout: objects
+title: coat
+emoji: coat
+permalink: 🧥.html
+---",coat🧥
+1089,U+1F9E6,socks,1089-socks.md,socks,🧦,permalink: 🧦.html,socks,"---
+layout: objects
+title: socks
+emoji: socks
+permalink: 🧦.html
+---",socks🧦
+1090,U+1F457,dress,1090-dress.md,dress,👗,permalink: 👗.html,dress,"---
+layout: objects
+title: dress
+emoji: dress
+permalink: 👗.html
+---",dress👗
+1091,U+1F458,kimono,1091-kimono.md,kimono,👘,permalink: 👘.html,kimono,"---
+layout: objects
+title: kimono
+emoji: kimono
+permalink: 👘.html
+---",kimono👘
+1092,U+1F97B,sari,1092-sari.md,sari,🥻,permalink: 🥻.html,sari,"---
+layout: objects
+title: sari
+emoji: sari
+permalink: 🥻.html
+---",sari🥻
+1093,U+1FA71,one-piece-swimsuit,1093-one-piece-swimsuit.md,one_piece_swimsuit,🩱,permalink: 🩱.html,one-piece swimsuit,"---
+layout: objects
+title: one-piece swimsuit
+emoji: one_piece_swimsuit
+permalink: 🩱.html
+---",one-piece swimsuit🩱
+1094,U+1FA72,briefs,1094-briefs.md,briefs,🩲,permalink: 🩲.html,briefs,"---
+layout: objects
+title: briefs
+emoji: briefs
+permalink: 🩲.html
+---",briefs🩲
+1095,U+1FA73,shorts,1095-shorts.md,shorts,🩳,permalink: 🩳.html,shorts,"---
+layout: objects
+title: shorts
+emoji: shorts
+permalink: 🩳.html
+---",shorts🩳
+1096,U+1F459,bikini,1096-bikini.md,bikini,👙,permalink: 👙.html,bikini,"---
+layout: objects
+title: bikini
+emoji: bikini
+permalink: 👙.html
+---",bikini👙
+1097,U+1F45A,woman’s-clothes,1097-woman’s-clothes.md,womans_clothes,👚,permalink: 👚.html,woman’s clothes,"---
+layout: objects
+title: woman’s clothes
+emoji: womans_clothes
+permalink: 👚.html
+---",woman’s clothes👚
+1098,U+1F45B,purse,1098-purse.md,purse,👛,permalink: 👛.html,purse,"---
+layout: objects
+title: purse
+emoji: purse
+permalink: 👛.html
+---",purse👛
+1099,U+1F45C,handbag,1099-handbag.md,handbag,👜,permalink: 👜.html,handbag,"---
+layout: objects
+title: handbag
+emoji: handbag
+permalink: 👜.html
+---",handbag👜
+1100,U+1F45D,clutch-bag,1100-clutch-bag.md,clutch_bag,👝,permalink: 👝.html,clutch bag,"---
+layout: objects
+title: clutch bag
+emoji: clutch_bag
+permalink: 👝.html
+---",clutch bag👝
+1101,U+1F6CD,shopping-bags,1101-shopping-bags.md,shopping_bags,🛍,permalink: 🛍.html,shopping bags,"---
+layout: objects
+title: shopping bags
+emoji: shopping_bags
+permalink: 🛍.html
+---",shopping bags🛍
+1102,U+1F392,backpack,1102-backpack.md,backpack,🎒,permalink: 🎒.html,backpack,"---
+layout: objects
+title: backpack
+emoji: backpack
+permalink: 🎒.html
+---",backpack🎒
+1103,U+1FA74,thong-sandal,1103-thong-sandal.md,thong_sandal,🩴,permalink: 🩴.html,thong sandal,"---
+layout: objects
+title: thong sandal
+emoji: thong_sandal
+permalink: 🩴.html
+---",thong sandal🩴
+1104,U+1F45E,man’s-shoe,1104-man’s-shoe.md,mans_shoe,👞,permalink: 👞.html,man’s shoe,"---
+layout: objects
+title: man’s shoe
+emoji: mans_shoe
+permalink: 👞.html
+---",man’s shoe👞
+1105,U+1F45F,running-shoe,1105-running-shoe.md,running_shoe,👟,permalink: 👟.html,running shoe,"---
+layout: objects
+title: running shoe
+emoji: running_shoe
+permalink: 👟.html
+---",running shoe👟
+1106,U+1F97E,hiking-boot,1106-hiking-boot.md,hiking_boot,🥾,permalink: 🥾.html,hiking boot,"---
+layout: objects
+title: hiking boot
+emoji: hiking_boot
+permalink: 🥾.html
+---",hiking boot🥾
+1107,U+1F97F,flat-shoe,1107-flat-shoe.md,flat_shoe,🥿,permalink: 🥿.html,flat shoe,"---
+layout: objects
+title: flat shoe
+emoji: flat_shoe
+permalink: 🥿.html
+---",flat shoe🥿
+1108,U+1F460,high-heeled-shoe,1108-high-heeled-shoe.md,high_heeled_shoe,👠,permalink: 👠.html,high-heeled shoe,"---
+layout: objects
+title: high-heeled shoe
+emoji: high_heeled_shoe
+permalink: 👠.html
+---",high-heeled shoe👠
+1109,U+1F461,womans-sandal,1109-womans-sandal.md,womans_sandal,👡,permalink: 👡.html,woman’s sandal,"---
+layout: objects
+title: woman’s sandal
+emoji: womans_sandal
+permalink: 👡.html
+---",woman’s sandal👡
+1110,U+1FA70,ballet-shoes,1110-ballet-shoes.md,ballet_shoes,🩰,permalink: 🩰.html,ballet shoes,"---
+layout: objects
+title: ballet shoes
+emoji: ballet_shoes
+permalink: 🩰.html
+---",ballet shoes🩰
+1111,U+1F462,womans-boot,1111-womans-boot.md,womans_boot,👢,permalink: 👢.html,woman’s boot,"---
+layout: objects
+title: woman’s boot
+emoji: womans_boot
+permalink: 👢.html
+---",woman’s boot👢
+1112,U+1F451,crown,1112-crown.md,crown,👑,permalink: 👑.html,crown,"---
+layout: objects
+title: crown
+emoji: crown
+permalink: 👑.html
+---",crown👑
+1113,U+1F452,womans-hat,1113-womans-hat.md,womans_hat,👒,permalink: 👒.html,woman’s hat,"---
+layout: objects
+title: woman’s hat
+emoji: womans_hat
+permalink: 👒.html
+---",woman’s hat👒
+1114,U+1F3A9,top-hat,1114-top-hat.md,top_hat,🎩,permalink: 🎩.html,top hat,"---
+layout: objects
+title: top hat
+emoji: top_hat
+permalink: 🎩.html
+---",top hat🎩
+1115,U+1F393,graduation-cap,1115-graduation-cap.md,graduation_cap,🎓,permalink: 🎓.html,graduation cap,"---
+layout: objects
+title: graduation cap
+emoji: graduation_cap
+permalink: 🎓.html
+---",graduation cap🎓
+1116,U+1F9E2,billed-cap,1116-billed-cap.md,billed_cap,🧢,permalink: 🧢.html,billed cap,"---
+layout: objects
+title: billed cap
+emoji: billed_cap
+permalink: 🧢.html
+---",billed cap🧢
+1117,U+1FA96,military-helmet,1117-military-helmet.md,military_helmet,🪖,permalink: 🪖.html,military helmet,"---
+layout: objects
+title: military helmet
+emoji: military_helmet
+permalink: 🪖.html
+---",military helmet🪖
+1118,U+26D1,rescue-workers-helmet,1118-rescue-workers-helmet.md,rescue_workers_helmet,⛑,permalink: ⛑.html,rescue worker’s helmet,"---
+layout: objects
+title: rescue worker’s helmet
+emoji: rescue_workers_helmet
+permalink: ⛑.html
+---",rescue worker’s helmet⛑
+1119,U+1F4FF,prayer-beads,1119-prayer-beads.md,prayer_beads,📿,permalink: 📿.html,prayer beads,"---
+layout: objects
+title: prayer beads
+emoji: prayer_beads
+permalink: 📿.html
+---",prayer beads📿
+1120,U+1F484,lipstick,1120-lipstick.md,lipstick,💄,permalink: 💄.html,lipstick,"---
+layout: objects
+title: lipstick
+emoji: lipstick
+permalink: 💄.html
+---",lipstick💄
+1121,U+1F48D,ring,1121-ring.md,ring,💍,permalink: 💍.html,ring,"---
+layout: objects
+title: ring
+emoji: ring
+permalink: 💍.html
+---",ring💍
+1122,U+1F48E,gem-stone,1122-gem-stone.md,gem_stone,💎,permalink: 💎.html,gem stone,"---
+layout: objects
+title: gem stone
+emoji: gem_stone
+permalink: 💎.html
+---",gem stone💎
+1123,U+1F507,muted-speaker,1123-muted-speaker.md,muted_speaker,🔇,permalink: 🔇.html,muted speaker,"---
+layout: objects
+title: muted speaker
+emoji: muted_speaker
+permalink: 🔇.html
+---",muted speaker🔇
+1124,U+1F508,speaker-low-volume,1124-speaker-low-volume.md,speaker_low_volume,🔈,permalink: 🔈.html,speaker low volume,"---
+layout: objects
+title: speaker low volume
+emoji: speaker_low_volume
+permalink: 🔈.html
+---",speaker low volume🔈
+1125,U+1F509,speaker-medium-volume,1125-speaker-medium-volume.md,speaker_medium_volume,🔉,permalink: 🔉.html,speaker medium volume,"---
+layout: objects
+title: speaker medium volume
+emoji: speaker_medium_volume
+permalink: 🔉.html
+---",speaker medium volume🔉
+1126,U+1F50A,speaker-high-volume,1126-speaker-high-volume.md,speaker_high_volume,🔊,permalink: 🔊.html,speaker high volume,"---
+layout: objects
+title: speaker high volume
+emoji: speaker_high_volume
+permalink: 🔊.html
+---",speaker high volume🔊
+1127,U+1F4E2,loudspeaker,1127-loudspeaker.md,loudspeaker,📢,permalink: 📢.html,loudspeaker,"---
+layout: objects
+title: loudspeaker
+emoji: loudspeaker
+permalink: 📢.html
+---",loudspeaker📢
+1128,U+1F4E3,megaphone,1128-megaphone.md,megaphone,📣,permalink: 📣.html,megaphone,"---
+layout: objects
+title: megaphone
+emoji: megaphone
+permalink: 📣.html
+---",megaphone📣
+1129,U+1F4EF,postal-horn,1129-postal-horn.md,postal_horn,📯,permalink: 📯.html,postal horn,"---
+layout: objects
+title: postal horn
+emoji: postal_horn
+permalink: 📯.html
+---",postal horn📯
+1130,U+1F514,bell,1130-bell.md,bell,🔔,permalink: 🔔.html,bell,"---
+layout: objects
+title: bell
+emoji: bell
+permalink: 🔔.html
+---",bell🔔
+1131,U+1F515,bell-with-slash,1131-bell-with-slash.md,bell_with_slash,🔕,permalink: 🔕.html,bell with slash,"---
+layout: objects
+title: bell with slash
+emoji: bell_with_slash
+permalink: 🔕.html
+---",bell with slash🔕
+1132,U+1F3BC,musical-score,1132-musical-score.md,musical_score,🎼,permalink: 🎼.html,musical score,"---
+layout: objects
+title: musical score
+emoji: musical_score
+permalink: 🎼.html
+---",musical score🎼
+1133,U+1F3B5,musical-note,1133-musical-note.md,musical_note,🎵,permalink: 🎵.html,musical note,"---
+layout: objects
+title: musical note
+emoji: musical_note
+permalink: 🎵.html
+---",musical note🎵
+1134,U+1F3B6,musical-notes,1134-musical-notes.md,musical_notes,🎶,permalink: 🎶.html,musical notes,"---
+layout: objects
+title: musical notes
+emoji: musical_notes
+permalink: 🎶.html
+---",musical notes🎶
+1135,U+1F399,studio-microphone,1135-studio-microphone.md,studio_microphone,🎙,permalink: 🎙.html,studio microphone,"---
+layout: objects
+title: studio microphone
+emoji: studio_microphone
+permalink: 🎙.html
+---",studio microphone🎙
+1136,U+1F39A,level-slider,1136-level-slider.md,level_slider,🎚,permalink: 🎚.html,level slider,"---
+layout: objects
+title: level slider
+emoji: level_slider
+permalink: 🎚.html
+---",level slider🎚
+1137,U+1F39B,control-knobs,1137-control-knobs.md,control_knobs,🎛,permalink: 🎛.html,control knobs,"---
+layout: objects
+title: control knobs
+emoji: control_knobs
+permalink: 🎛.html
+---",control knobs🎛
+1138,U+1F3A4,microphone,1138-microphone.md,microphone,🎤,permalink: 🎤.html,microphone,"---
+layout: objects
+title: microphone
+emoji: microphone
+permalink: 🎤.html
+---",microphone🎤
+1139,U+1F3A7,headphone,1139-headphone.md,headphone,🎧,permalink: 🎧.html,headphone,"---
+layout: objects
+title: headphone
+emoji: headphone
+permalink: 🎧.html
+---",headphone🎧
+1140,U+1F4FB,radio,1140-radio.md,radio,📻,permalink: 📻.html,radio,"---
+layout: objects
+title: radio
+emoji: radio
+permalink: 📻.html
+---",radio📻
+1141,U+1F3B7,saxophone,1141-saxophone.md,saxophone,🎷,permalink: 🎷.html,saxophone,"---
+layout: objects
+title: saxophone
+emoji: saxophone
+permalink: 🎷.html
+---",saxophone🎷
+1142,U+1FA97,accordion,1142-accordion.md,accordion,🪗,permalink: 🪗.html,accordion,"---
+layout: objects
+title: accordion
+emoji: accordion
+permalink: 🪗.html
+---",accordion🪗
+1143,U+1F3B8,guitar,1143-guitar.md,guitar,🎸,permalink: 🎸.html,guitar,"---
+layout: objects
+title: guitar
+emoji: guitar
+permalink: 🎸.html
+---",guitar🎸
+1144,U+1F3B9,musical-keyboard,1144-musical-keyboard.md,musical_keyboard,🎹,permalink: 🎹.html,musical keyboard,"---
+layout: objects
+title: musical keyboard
+emoji: musical_keyboard
+permalink: 🎹.html
+---",musical keyboard🎹
+1145,U+1F3BA,trumpet,1145-trumpet.md,trumpet,🎺,permalink: 🎺.html,trumpet,"---
+layout: objects
+title: trumpet
+emoji: trumpet
+permalink: 🎺.html
+---",trumpet🎺
+1146,U+1F3BB,violin,1146-violin.md,violin,🎻,permalink: 🎻.html,violin,"---
+layout: objects
+title: violin
+emoji: violin
+permalink: 🎻.html
+---",violin🎻
+1147,U+1FA95,banjo,1147-banjo.md,banjo,🪕,permalink: 🪕.html,banjo,"---
+layout: objects
+title: banjo
+emoji: banjo
+permalink: 🪕.html
+---",banjo🪕
+1148,U+1F941,drum,1148-drum.md,drum,🥁,permalink: 🥁.html,drum,"---
+layout: objects
+title: drum
+emoji: drum
+permalink: 🥁.html
+---",drum🥁
+1149,U+1FA98,long-drum,1149-long-drum.md,long_drum,🪘,permalink: 🪘.html,long drum,"---
+layout: objects
+title: long drum
+emoji: long_drum
+permalink: 🪘.html
+---",long drum🪘
+1150,U+1F4F1,mobile-phone,1150-mobile-phone.md,mobile_phone,📱,permalink: 📱.html,mobile phone,"---
+layout: objects
+title: mobile phone
+emoji: mobile_phone
+permalink: 📱.html
+---",mobile phone📱
+1151,U+1F4F2,mobile-phone-with-arrow,1151-mobile-phone-with-arrow.md,mobile_phone_with_arrow,📲,permalink: 📲.html,mobile phone with arrow,"---
+layout: objects
+title: mobile phone with arrow
+emoji: mobile_phone_with_arrow
+permalink: 📲.html
+---",mobile phone with arrow📲
+1152,U+260E,telephone,1152-telephone.md,telephone,☎,permalink: ☎.html,telephone,"---
+layout: objects
+title: telephone
+emoji: telephone
+permalink: ☎.html
+---",telephone☎
+1153,U+1F4DE,telephone-receiver,1153-telephone-receiver.md,telephone_receiver,📞,permalink: 📞.html,telephone receiver,"---
+layout: objects
+title: telephone receiver
+emoji: telephone_receiver
+permalink: 📞.html
+---",telephone receiver📞
+1154,U+1F4DF,pager,1154-pager.md,pager,📟,permalink: 📟.html,pager,"---
+layout: objects
+title: pager
+emoji: pager
+permalink: 📟.html
+---",pager📟
+1155,U+1F4E0,fax-machine,1155-fax-machine.md,fax_machine,📠,permalink: 📠.html,fax machine,"---
+layout: objects
+title: fax machine
+emoji: fax_machine
+permalink: 📠.html
+---",fax machine📠
+1156,U+1F50B,battery,1156-battery.md,battery,🔋,permalink: 🔋.html,battery,"---
+layout: objects
+title: battery
+emoji: battery
+permalink: 🔋.html
+---",battery🔋
+1157,U+1F50C,electric-plug,1157-electric-plug.md,electric_plug,🔌,permalink: 🔌.html,electric plug,"---
+layout: objects
+title: electric plug
+emoji: electric_plug
+permalink: 🔌.html
+---",electric plug🔌
+1158,U+1F4BB,laptop,1158-laptop.md,laptop,💻,permalink: 💻.html,laptop,"---
+layout: objects
+title: laptop
+emoji: laptop
+permalink: 💻.html
+---",laptop💻
+1159,U+1F5A5,desktop-computer,1159-desktop-computer.md,desktop_computer,🖥,permalink: 🖥.html,desktop computer,"---
+layout: objects
+title: desktop computer
+emoji: desktop_computer
+permalink: 🖥.html
+---",desktop computer🖥
+1160,U+1F5A8,printer,1160-printer.md,printer,🖨,permalink: 🖨.html,printer,"---
+layout: objects
+title: printer
+emoji: printer
+permalink: 🖨.html
+---",printer🖨
+1161,U+2328,keyboard,1161-keyboard.md,keyboard,⌨,permalink: ⌨.html,keyboard,"---
+layout: objects
+title: keyboard
+emoji: keyboard
+permalink: ⌨.html
+---",keyboard⌨
+1162,U+1F5B1,computer-mouse,1162-computer-mouse.md,computer_mouse,🖱,permalink: 🖱.html,computer mouse,"---
+layout: objects
+title: computer mouse
+emoji: computer_mouse
+permalink: 🖱.html
+---",computer mouse🖱
+1163,U+1F5B2,trackball,1163-trackball.md,trackball,🖲,permalink: 🖲.html,trackball,"---
+layout: objects
+title: trackball
+emoji: trackball
+permalink: 🖲.html
+---",trackball🖲
+1164,U+1F4BD,computer-disk,1164-computer-disk.md,computer_disk,💽,permalink: 💽.html,computer disk,"---
+layout: objects
+title: computer disk
+emoji: computer_disk
+permalink: 💽.html
+---",computer disk💽
+1165,U+1F4BE,floppy-disk,1165-floppy-disk.md,floppy_disk,💾,permalink: 💾.html,floppy disk,"---
+layout: objects
+title: floppy disk
+emoji: floppy_disk
+permalink: 💾.html
+---",floppy disk💾
+1166,U+1F4BF,optical-disk,1166-optical-disk.md,optical_disk,💿,permalink: 💿.html,optical disk,"---
+layout: objects
+title: optical disk
+emoji: optical_disk
+permalink: 💿.html
+---",optical disk💿
+1167,U+1F4C0,dvd,1167-dvd.md,dvd,📀,permalink: 📀.html,dvd,"---
+layout: objects
+title: dvd
+emoji: dvd
+permalink: 📀.html
+---",dvd📀
+1168,U+1F9EE,abacus,1168-abacus.md,abacus,🧮,permalink: 🧮.html,abacus,"---
+layout: objects
+title: abacus
+emoji: abacus
+permalink: 🧮.html
+---",abacus🧮
+1169,U+1F3A5,movie-camera,1169-movie-camera.md,movie_camera,🎥,permalink: 🎥.html,movie camera,"---
+layout: objects
+title: movie camera
+emoji: movie_camera
+permalink: 🎥.html
+---",movie camera🎥
+1170,U+1F39E,film-frames,1170-film-frames.md,film_frames,🎞,permalink: 🎞.html,film frames,"---
+layout: objects
+title: film frames
+emoji: film_frames
+permalink: 🎞.html
+---",film frames🎞
+1171,U+1F4FD,film-projector,1171-film-projector.md,film_projector,📽,permalink: 📽.html,film projector,"---
+layout: objects
+title: film projector
+emoji: film_projector
+permalink: 📽.html
+---",film projector📽
+1172,U+1F3AC,clapper-board,1172-clapper-board.md,clapper_board,🎬,permalink: 🎬.html,clapper board,"---
+layout: objects
+title: clapper board
+emoji: clapper_board
+permalink: 🎬.html
+---",clapper board🎬
+1173,U+1F4FA,television,1173-television.md,television,📺,permalink: 📺.html,television,"---
+layout: objects
+title: television
+emoji: television
+permalink: 📺.html
+---",television📺
+1174,U+1F4F7,camera,1174-camera.md,camera,📷,permalink: 📷.html,camera,"---
+layout: objects
+title: camera
+emoji: camera
+permalink: 📷.html
+---",camera📷
+1175,U+1F4F8,camera-with-flash,1175-camera-with-flash.md,camera_with_flash,📸,permalink: 📸.html,camera with flash,"---
+layout: objects
+title: camera with flash
+emoji: camera_with_flash
+permalink: 📸.html
+---",camera with flash📸
+1176,U+1F4F9,video-camera,1176-video-camera.md,video_camera,📹,permalink: 📹.html,video camera,"---
+layout: objects
+title: video camera
+emoji: video_camera
+permalink: 📹.html
+---",video camera📹
+1177,U+1F4FC,videocassette,1177-videocassette.md,videocassette,📼,permalink: 📼.html,videocassette,"---
+layout: objects
+title: videocassette
+emoji: videocassette
+permalink: 📼.html
+---",videocassette📼
+1178,U+1F50D,magnifying-glass-tilted-left,1178-magnifying-glass-tilted-left.md,magnifying_glass_tilted_left,🔍,permalink: 🔍.html,magnifying glass tilted left,"---
+layout: objects
+title: magnifying glass tilted left
+emoji: magnifying_glass_tilted_left
+permalink: 🔍.html
+---",magnifying glass tilted left🔍
+1179,U+1F50E,magnifying-glass-tilted-right,1179-magnifying-glass-tilted-right.md,magnifying_glass_tilted_right,🔎,permalink: 🔎.html,magnifying glass tilted right,"---
+layout: objects
+title: magnifying glass tilted right
+emoji: magnifying_glass_tilted_right
+permalink: 🔎.html
+---",magnifying glass tilted right🔎
+1180,U+1F56F,candle,1180-candle.md,candle,🕯,permalink: 🕯.html,candle,"---
+layout: objects
+title: candle
+emoji: candle
+permalink: 🕯.html
+---",candle🕯
+1181,U+1F4A1,light-bulb,1181-light-bulb.md,light_bulb,💡,permalink: 💡.html,light bulb,"---
+layout: objects
+title: light bulb
+emoji: light_bulb
+permalink: 💡.html
+---",light bulb💡
+1182,U+1F526,flashlight,1182-flashlight.md,flashlight,🔦,permalink: 🔦.html,flashlight,"---
+layout: objects
+title: flashlight
+emoji: flashlight
+permalink: 🔦.html
+---",flashlight🔦
+1183,U+1F3EE,red-paper-lantern,1183-red-paper-lantern.md,red_paper_lantern,🏮,permalink: 🏮.html,red paper lantern,"---
+layout: objects
+title: red paper lantern
+emoji: red_paper_lantern
+permalink: 🏮.html
+---",red paper lantern🏮
+1184,U+1FA94,diya-lamp,1184-diya-lamp.md,diya_lamp,🪔,permalink: 🪔.html,diya lamp,"---
+layout: objects
+title: diya lamp
+emoji: diya_lamp
+permalink: 🪔.html
+---",diya lamp🪔
+1185,U+1F4D4,notebook-with-decorative-cover,1185-notebook-with-decorative-cover.md,notebook_with_decorative_cover,📔,permalink: 📔.html,notebook with decorative cover,"---
+layout: objects
+title: notebook with decorative cover
+emoji: notebook_with_decorative_cover
+permalink: 📔.html
+---",notebook with decorative cover📔
+1186,U+1F4D5,closed-book,1186-closed-book.md,closed_book,📕,permalink: 📕.html,closed book,"---
+layout: objects
+title: closed book
+emoji: closed_book
+permalink: 📕.html
+---",closed book📕
+1187,U+1F4D6,open-book,1187-open-book.md,open_book,📖,permalink: 📖.html,open book,"---
+layout: objects
+title: open book
+emoji: open_book
+permalink: 📖.html
+---",open book📖
+1188,U+1F4D7,green-book,1188-green-book.md,green_book,📗,permalink: 📗.html,green book,"---
+layout: objects
+title: green book
+emoji: green_book
+permalink: 📗.html
+---",green book📗
+1189,U+1F4D8,blue-book,1189-blue-book.md,blue_book,📘,permalink: 📘.html,blue book,"---
+layout: objects
+title: blue book
+emoji: blue_book
+permalink: 📘.html
+---",blue book📘
+1190,U+1F4D9,orange-book,1190-orange-book.md,orange_book,📙,permalink: 📙.html,orange book,"---
+layout: objects
+title: orange book
+emoji: orange_book
+permalink: 📙.html
+---",orange book📙
+1191,U+1F4DA,books,1191-books.md,books,📚,permalink: 📚.html,books,"---
+layout: objects
+title: books
+emoji: books
+permalink: 📚.html
+---",books📚
+1192,U+1F4D3,notebook,1192-notebook.md,notebook,📓,permalink: 📓.html,notebook,"---
+layout: objects
+title: notebook
+emoji: notebook
+permalink: 📓.html
+---",notebook📓
+1193,U+1F4D2,ledger,1193-ledger.md,ledger,📒,permalink: 📒.html,ledger,"---
+layout: objects
+title: ledger
+emoji: ledger
+permalink: 📒.html
+---",ledger📒
+1194,U+1F4C3,page-with-curl,1194-page-with-curl.md,page_with_curl,📃,permalink: 📃.html,page with curl,"---
+layout: objects
+title: page with curl
+emoji: page_with_curl
+permalink: 📃.html
+---",page with curl📃
+1195,U+1F4DC,scroll,1195-scroll.md,scroll,📜,permalink: 📜.html,scroll,"---
+layout: objects
+title: scroll
+emoji: scroll
+permalink: 📜.html
+---",scroll📜
+1196,U+1F4C4,page-facing-up,1196-page-facing-up.md,page_facing_up,📄,permalink: 📄.html,page facing up,"---
+layout: objects
+title: page facing up
+emoji: page_facing_up
+permalink: 📄.html
+---",page facing up📄
+1197,U+1F4F0,newspaper,1197-newspaper.md,newspaper,📰,permalink: 📰.html,newspaper,"---
+layout: objects
+title: newspaper
+emoji: newspaper
+permalink: 📰.html
+---",newspaper📰
+1198,U+1F5DE,rolled-up-newspaper,1198-rolled-up-newspaper.md,rolled_up_newspaper,🗞,permalink: 🗞.html,rolled-up newspaper,"---
+layout: objects
+title: rolled-up newspaper
+emoji: rolled_up_newspaper
+permalink: 🗞.html
+---",rolled-up newspaper🗞
+1199,U+1F4D1,bookmark-tabs,1199-bookmark-tabs.md,bookmark_tabs,📑,permalink: 📑.html,bookmark tabs,"---
+layout: objects
+title: bookmark tabs
+emoji: bookmark_tabs
+permalink: 📑.html
+---",bookmark tabs📑
+1200,U+1F516,bookmark,1200-bookmark.md,bookmark,🔖,permalink: 🔖.html,bookmark,"---
+layout: objects
+title: bookmark
+emoji: bookmark
+permalink: 🔖.html
+---",bookmark🔖
+1201,U+1F3F7,label,1201-label.md,label,🏷,permalink: 🏷.html,label,"---
+layout: objects
+title: label
+emoji: label
+permalink: 🏷.html
+---",label🏷
+1202,U+1F4B0,money-bag,1202-money-bag.md,money_bag,💰,permalink: 💰.html,money bag,"---
+layout: objects
+title: money bag
+emoji: money_bag
+permalink: 💰.html
+---",money bag💰
+1203,U+1FA99,coin,1203-coin.md,coin,🪙,permalink: 🪙.html,coin,"---
+layout: objects
+title: coin
+emoji: coin
+permalink: 🪙.html
+---",coin🪙
+1204,U+1F4B4,yen-banknote,1204-yen-banknote.md,yen_banknote,💴,permalink: 💴.html,yen banknote,"---
+layout: objects
+title: yen banknote
+emoji: yen_banknote
+permalink: 💴.html
+---",yen banknote💴
+1205,U+1F4B5,dollar-banknote,1205-dollar-banknote.md,dollar_banknote,💵,permalink: 💵.html,dollar banknote,"---
+layout: objects
+title: dollar banknote
+emoji: dollar_banknote
+permalink: 💵.html
+---",dollar banknote💵
+1206,U+1F4B6,euro-banknote,1206-euro-banknote.md,euro_banknote,💶,permalink: 💶.html,euro banknote,"---
+layout: objects
+title: euro banknote
+emoji: euro_banknote
+permalink: 💶.html
+---",euro banknote💶
+1207,U+1F4B7,pound-banknote,1207-pound-banknote.md,pound_banknote,💷,permalink: 💷.html,pound banknote,"---
+layout: objects
+title: pound banknote
+emoji: pound_banknote
+permalink: 💷.html
+---",pound banknote💷
+1208,U+1F4B8,money-with-wings,1208-money-with-wings.md,money_with_wings,💸,permalink: 💸.html,money with wings,"---
+layout: objects
+title: money with wings
+emoji: money_with_wings
+permalink: 💸.html
+---",money with wings💸
+1209,U+1F4B3,credit-card,1209-credit-card.md,credit_card,💳,permalink: 💳.html,credit card,"---
+layout: objects
+title: credit card
+emoji: credit_card
+permalink: 💳.html
+---",credit card💳
+1210,U+1F9FE,receipt,1210-receipt.md,receipt,🧾,permalink: 🧾.html,receipt,"---
+layout: objects
+title: receipt
+emoji: receipt
+permalink: 🧾.html
+---",receipt🧾
+1211,U+1F4B9,chart-increasing-with-yen,1211-chart-increasing-with-yen.md,chart_increasing_with_yen,💹,permalink: 💹.html,chart increasing with yen,"---
+layout: objects
+title: chart increasing with yen
+emoji: chart_increasing_with_yen
+permalink: 💹.html
+---",chart increasing with yen💹
+1212,U+2709,envelope,1212-envelope.md,envelope,✉,permalink: ✉.html,envelope,"---
+layout: objects
+title: envelope
+emoji: envelope
+permalink: ✉.html
+---",envelope✉
+1213,U+1F4E7,email,1213-email.md,email,📧,permalink: 📧.html,e-mail,"---
+layout: objects
+title: e-mail
+emoji: email
+permalink: 📧.html
+---",e-mail📧
+1214,U+1F4E8,incoming-envelope,1214-incoming-envelope.md,incoming_envelope,📨,permalink: 📨.html,incoming envelope,"---
+layout: objects
+title: incoming envelope
+emoji: incoming_envelope
+permalink: 📨.html
+---",incoming envelope📨
+1215,U+1F4E9,envelope-with-arrow,1215-envelope-with-arrow.md,envelope_with_arrow,📩,permalink: 📩.html,envelope with arrow,"---
+layout: objects
+title: envelope with arrow
+emoji: envelope_with_arrow
+permalink: 📩.html
+---",envelope with arrow📩
+1216,U+1F4E4,outbox-tray,1216-outbox-tray.md,outbox_tray,📤,permalink: 📤.html,outbox tray,"---
+layout: objects
+title: outbox tray
+emoji: outbox_tray
+permalink: 📤.html
+---",outbox tray📤
+1217,U+1F4E5,inbox-tray,1217-inbox-tray.md,inbox_tray,📥,permalink: 📥.html,inbox tray,"---
+layout: objects
+title: inbox tray
+emoji: inbox_tray
+permalink: 📥.html
+---",inbox tray📥
+1218,U+1F4E6,package,1218-package.md,package,📦,permalink: 📦.html,package,"---
+layout: objects
+title: package
+emoji: package
+permalink: 📦.html
+---",package📦
+1219,U+1F4EB,closed-mailbox-with-raised-flag,1219-closed-mailbox-with-raised-flag.md,closed_mailbox_with_raised_flag,📫,permalink: 📫.html,closed mailbox with raised flag,"---
+layout: objects
+title: closed mailbox with raised flag
+emoji: closed_mailbox_with_raised_flag
+permalink: 📫.html
+---",closed mailbox with raised flag📫
+1220,U+1F4EA,closed-mailbox-with-lowered-flag,1220-closed-mailbox-with-lowered-flag.md,closed_mailbox_with_lowered_flag,📪,permalink: 📪.html,closed mailbox with lowered flag,"---
+layout: objects
+title: closed mailbox with lowered flag
+emoji: closed_mailbox_with_lowered_flag
+permalink: 📪.html
+---",closed mailbox with lowered flag📪
+1221,U+1F4EC,open-mailbox-with-raised-flag,1221-open-mailbox-with-raised-flag.md,open_mailbox_with_raised_flag,📬,permalink: 📬.html,open mailbox with raised flag,"---
+layout: objects
+title: open mailbox with raised flag
+emoji: open_mailbox_with_raised_flag
+permalink: 📬.html
+---",open mailbox with raised flag📬
+1222,U+1F4ED,open-mailbox-with-lowered-flag,1222-open-mailbox-with-lowered-flag.md,open_mailbox_with_lowered_flag,📭,permalink: 📭.html,open mailbox with lowered flag,"---
+layout: objects
+title: open mailbox with lowered flag
+emoji: open_mailbox_with_lowered_flag
+permalink: 📭.html
+---",open mailbox with lowered flag📭
+1223,U+1F4EE,postbox,1223-postbox.md,postbox,📮,permalink: 📮.html,postbox,"---
+layout: objects
+title: postbox
+emoji: postbox
+permalink: 📮.html
+---",postbox📮
+1224,U+1F5F3,ballot-box-with-ballot,1224-ballot-box-with-ballot.md,ballot_box_with_ballot,🗳,permalink: 🗳.html,ballot box with ballot,"---
+layout: objects
+title: ballot box with ballot
+emoji: ballot_box_with_ballot
+permalink: 🗳.html
+---",ballot box with ballot🗳
+1225,U+270F,pencil,1225-pencil.md,pencil,✏,permalink: ✏.html,pencil,"---
+layout: objects
+title: pencil
+emoji: pencil
+permalink: ✏.html
+---",pencil✏
+1226,U+2712,black-nib,1226-black-nib.md,black_nib,✒,permalink: ✒.html,black nib,"---
+layout: objects
+title: black nib
+emoji: black_nib
+permalink: ✒.html
+---",black nib✒
+1227,U+1F58B,fountain-pen,1227-fountain-pen.md,fountain_pen,🖋,permalink: 🖋.html,fountain pen,"---
+layout: objects
+title: fountain pen
+emoji: fountain_pen
+permalink: 🖋.html
+---",fountain pen🖋
+1228,U+1F58A,pen,1228-pen.md,pen,🖊,permalink: 🖊.html,pen,"---
+layout: objects
+title: pen
+emoji: pen
+permalink: 🖊.html
+---",pen🖊
+1229,U+1F58C,paintbrush,1229-paintbrush.md,paintbrush,🖌,permalink: 🖌.html,paintbrush,"---
+layout: objects
+title: paintbrush
+emoji: paintbrush
+permalink: 🖌.html
+---",paintbrush🖌
+1230,U+1F58D,crayon,1230-crayon.md,crayon,🖍,permalink: 🖍.html,crayon,"---
+layout: objects
+title: crayon
+emoji: crayon
+permalink: 🖍.html
+---",crayon🖍
+1231,U+1F4DD,memo,1231-memo.md,memo,📝,permalink: 📝.html,memo,"---
+layout: objects
+title: memo
+emoji: memo
+permalink: 📝.html
+---",memo📝
+1232,U+1F4BC,briefcase,1232-briefcase.md,briefcase,💼,permalink: 💼.html,briefcase,"---
+layout: objects
+title: briefcase
+emoji: briefcase
+permalink: 💼.html
+---",briefcase💼
+1233,U+1F4C1,file-folder,1233-file-folder.md,file_folder,📁,permalink: 📁.html,file folder,"---
+layout: objects
+title: file folder
+emoji: file_folder
+permalink: 📁.html
+---",file folder📁
+1234,U+1F4C2,open-file-folder,1234-open-file-folder.md,open_file_folder,📂,permalink: 📂.html,open file folder,"---
+layout: objects
+title: open file folder
+emoji: open_file_folder
+permalink: 📂.html
+---",open file folder📂
+1235,U+1F5C2,card-index-dividers,1235-card-index-dividers.md,card_index_dividers,🗂,permalink: 🗂.html,card index dividers,"---
+layout: objects
+title: card index dividers
+emoji: card_index_dividers
+permalink: 🗂.html
+---",card index dividers🗂
+1236,U+1F4C5,calendar,1236-calendar.md,calendar,📅,permalink: 📅.html,calendar,"---
+layout: objects
+title: calendar
+emoji: calendar
+permalink: 📅.html
+---",calendar📅
+1237,U+1F4C6,tear-off-calendar,1237-tear-off-calendar.md,tearoff_calendar,📆,permalink: 📆.html,tear-off calendar,"---
+layout: objects
+title: tear-off calendar
+emoji: tearoff_calendar
+permalink: 📆.html
+---",tear-off calendar📆
+1238,U+1F5D2,spiral-notepad,1238-spiral-notepad.md,spiral_notepad,🗒,permalink: 🗒.html,spiral notepad,"---
+layout: objects
+title: spiral notepad
+emoji: spiral_notepad
+permalink: 🗒.html
+---",spiral notepad🗒
+1239,U+1F5D3,spiral-calendar,1239-spiral-calendar.md,spiral_calendar,🗓,permalink: 🗓.html,spiral calendar,"---
+layout: objects
+title: spiral calendar
+emoji: spiral_calendar
+permalink: 🗓.html
+---",spiral calendar🗓
+1240,U+1F4C7,card-index,1240-card-index.md,card_index,📇,permalink: 📇.html,card index,"---
+layout: objects
+title: card index
+emoji: card_index
+permalink: 📇.html
+---",card index📇
+1241,U+1F4C8,chart-increasing,1241-chart-increasing.md,chart_increasing,📈,permalink: 📈.html,chart increasing,"---
+layout: objects
+title: chart increasing
+emoji: chart_increasing
+permalink: 📈.html
+---",chart increasing📈
+1242,U+1F4C9,chart-decreasing,1242-chart-decreasing.md,chart_decreasing,📉,permalink: 📉.html,chart decreasing,"---
+layout: objects
+title: chart decreasing
+emoji: chart_decreasing
+permalink: 📉.html
+---",chart decreasing📉
+1243,U+1F4CA,bar-chart,1243-bar-chart.md,bar_chart,📊,permalink: 📊.html,bar chart,"---
+layout: objects
+title: bar chart
+emoji: bar_chart
+permalink: 📊.html
+---",bar chart📊
+1244,U+1F4CB,clipboard,1244-clipboard.md,clipboard,📋,permalink: 📋.html,clipboard,"---
+layout: objects
+title: clipboard
+emoji: clipboard
+permalink: 📋.html
+---",clipboard📋
+1245,U+1F4CC,pushpin,1245-pushpin.md,pushpin,📌,permalink: 📌.html,pushpin,"---
+layout: objects
+title: pushpin
+emoji: pushpin
+permalink: 📌.html
+---",pushpin📌
+1246,U+1F4CD,round-pushpin,1246-round-pushpin.md,round_pushpin,📍,permalink: 📍.html,round pushpin,"---
+layout: objects
+title: round pushpin
+emoji: round_pushpin
+permalink: 📍.html
+---",round pushpin📍
+1247,U+1F4CE,paperclip,1247-paperclip.md,paperclip,📎,permalink: 📎.html,paperclip,"---
+layout: objects
+title: paperclip
+emoji: paperclip
+permalink: 📎.html
+---",paperclip📎
+1248,U+1F587,linked-paperclips,1248-linked-paperclips.md,linked_paperclips,🖇,permalink: 🖇.html,linked paperclips,"---
+layout: objects
+title: linked paperclips
+emoji: linked_paperclips
+permalink: 🖇.html
+---",linked paperclips🖇
+1249,U+1F4CF,straight-ruler,1249-straight-ruler.md,straight_ruler,📏,permalink: 📏.html,straight ruler,"---
+layout: objects
+title: straight ruler
+emoji: straight_ruler
+permalink: 📏.html
+---",straight ruler📏
+1250,U+1F4D0,triangular-ruler,1250-triangular-ruler.md,triangular_ruler,📐,permalink: 📐.html,triangular ruler,"---
+layout: objects
+title: triangular ruler
+emoji: triangular_ruler
+permalink: 📐.html
+---",triangular ruler📐
+1251,U+2702,scissors,1251-scissors.md,scissors,✂,permalink: ✂.html,scissors,"---
+layout: objects
+title: scissors
+emoji: scissors
+permalink: ✂.html
+---",scissors✂
+1252,U+1F5C3,card-file-box,1252-card-file-box.md,card_file_box,🗃,permalink: 🗃.html,card file box,"---
+layout: objects
+title: card file box
+emoji: card_file_box
+permalink: 🗃.html
+---",card file box🗃
+1253,U+1F5C4,file-cabinet,1253-file-cabinet.md,file_cabinet,🗄,permalink: 🗄.html,file cabinet,"---
+layout: objects
+title: file cabinet
+emoji: file_cabinet
+permalink: 🗄.html
+---",file cabinet🗄
+1254,U+1F5D1,wastebasket,1254-wastebasket.md,wastebasket,🗑,permalink: 🗑.html,wastebasket,"---
+layout: objects
+title: wastebasket
+emoji: wastebasket
+permalink: 🗑.html
+---",wastebasket🗑
+1255,U+1F512,locked,1255-locked.md,locked,🔒,permalink: 🔒.html,locked,"---
+layout: objects
+title: locked
+emoji: locked
+permalink: 🔒.html
+---",locked🔒
+1256,U+1F513,unlocked,1256-unlocked.md,unlocked,🔓,permalink: 🔓.html,unlocked,"---
+layout: objects
+title: unlocked
+emoji: unlocked
+permalink: 🔓.html
+---",unlocked🔓
+1257,U+1F50F,locked-with-pen,1257-locked-with-pen.md,locked_with_pen,🔏,permalink: 🔏.html,locked with pen,"---
+layout: objects
+title: locked with pen
+emoji: locked_with_pen
+permalink: 🔏.html
+---",locked with pen🔏
+1258,U+1F510,locked-with-key,1258-locked-with-key.md,locked_with_key,🔐,permalink: 🔐.html,locked with key,"---
+layout: objects
+title: locked with key
+emoji: locked_with_key
+permalink: 🔐.html
+---",locked with key🔐
+1259,U+1F511,key,1259-key.md,key,🔑,permalink: 🔑.html,key,"---
+layout: objects
+title: key
+emoji: key
+permalink: 🔑.html
+---",key🔑
+1260,U+1F5DD,old-key,1260-old-key.md,old_key,🗝,permalink: 🗝.html,old key,"---
+layout: objects
+title: old key
+emoji: old_key
+permalink: 🗝.html
+---",old key🗝
+1261,U+1F528,hammer,1261-hammer.md,hammer,🔨,permalink: 🔨.html,hammer,"---
+layout: objects
+title: hammer
+emoji: hammer
+permalink: 🔨.html
+---",hammer🔨
+1262,U+1FA93,axe,1262-axe.md,axe,🪓,permalink: 🪓.html,axe,"---
+layout: objects
+title: axe
+emoji: axe
+permalink: 🪓.html
+---",axe🪓
+1263,U+26CF,pick,1263-pick.md,pick,⛏,permalink: ⛏.html,pick,"---
+layout: objects
+title: pick
+emoji: pick
+permalink: ⛏.html
+---",pick⛏
+1264,U+2692,hammer-and-pick,1264-hammer-and-pick.md,hammer_and_pick,⚒,permalink: ⚒.html,hammer and pick,"---
+layout: objects
+title: hammer and pick
+emoji: hammer_and_pick
+permalink: ⚒.html
+---",hammer and pick⚒
+1265,U+1F6E0,hammer-and-wrench,1265-hammer-and-wrench.md,hammer_and_wrench,🛠,permalink: 🛠.html,hammer and wrench,"---
+layout: objects
+title: hammer and wrench
+emoji: hammer_and_wrench
+permalink: 🛠.html
+---",hammer and wrench🛠
+1266,U+1F5E1,dagger,1266-dagger.md,dagger,🗡,permalink: 🗡.html,dagger,"---
+layout: objects
+title: dagger
+emoji: dagger
+permalink: 🗡.html
+---",dagger🗡
+1267,U+2694,crossed-swords,1267-crossed-swords.md,crossed_swords,⚔,permalink: ⚔.html,crossed swords,"---
+layout: objects
+title: crossed swords
+emoji: crossed_swords
+permalink: ⚔.html
+---",crossed swords⚔
+1268,U+1F52B,water-pistol,1268-water-pistol.md,water_pistol,🔫,permalink: 🔫.html,water pistol,"---
+layout: objects
+title: water pistol
+emoji: water_pistol
+permalink: 🔫.html
+---",water pistol🔫
+1269,U+1FA83,boomerang,1269-boomerang.md,boomerang,🪃,permalink: 🪃.html,boomerang,"---
+layout: objects
+title: boomerang
+emoji: boomerang
+permalink: 🪃.html
+---",boomerang🪃
+1270,U+1F3F9,bow-and-arrow,1270-bow-and-arrow.md,bow_and_arrow,🏹,permalink: 🏹.html,bow and arrow,"---
+layout: objects
+title: bow and arrow
+emoji: bow_and_arrow
+permalink: 🏹.html
+---",bow and arrow🏹
+1271,U+1F6E1,shield,1271-shield.md,shield,🛡,permalink: 🛡.html,shield,"---
+layout: objects
+title: shield
+emoji: shield
+permalink: 🛡.html
+---",shield🛡
+1272,U+1FA9A,carpentry-saw,1272-carpentry-saw.md,carpentry_saw,🪚,permalink: 🪚.html,carpentry saw,"---
+layout: objects
+title: carpentry saw
+emoji: carpentry_saw
+permalink: 🪚.html
+---",carpentry saw🪚
+1273,U+1F527,wrench,1273-wrench.md,wrench,🔧,permalink: 🔧.html,wrench,"---
+layout: objects
+title: wrench
+emoji: wrench
+permalink: 🔧.html
+---",wrench🔧
+1274,U+1FA9B,screwdriver,1274-screwdriver.md,screwdriver,🪛,permalink: 🪛.html,screwdriver,"---
+layout: objects
+title: screwdriver
+emoji: screwdriver
+permalink: 🪛.html
+---",screwdriver🪛
+1275,U+1F529,nut-and-bolt,1275-nut-and-bolt.md,nut_and_bolt,🔩,permalink: 🔩.html,nut and bolt,"---
+layout: objects
+title: nut and bolt
+emoji: nut_and_bolt
+permalink: 🔩.html
+---",nut and bolt🔩
+1276,U+2699,gear,1276-gear.md,gear,⚙,permalink: ⚙.html,gear,"---
+layout: objects
+title: gear
+emoji: gear
+permalink: ⚙.html
+---",gear⚙
+1277,U+1F5DC,clamp,1277-clamp.md,clamp,🗜,permalink: 🗜.html,clamp,"---
+layout: objects
+title: clamp
+emoji: clamp
+permalink: 🗜.html
+---",clamp🗜
+1278,U+2696,balance-scale,1278-balance-scale.md,balance_scale,⚖,permalink: ⚖.html,balance scale,"---
+layout: objects
+title: balance scale
+emoji: balance_scale
+permalink: ⚖.html
+---",balance scale⚖
+1279,U+1F9AF,white-cane,1279-white-cane.md,white_cane,🦯,permalink: 🦯.html,white cane,"---
+layout: objects
+title: white cane
+emoji: white_cane
+permalink: 🦯.html
+---",white cane🦯
+1280,U+1F517,link,1280-link.md,link,🔗,permalink: 🔗.html,link,"---
+layout: objects
+title: link
+emoji: link
+permalink: 🔗.html
+---",link🔗
+1281,U+26D3,chains,1281-chains.md,chains,⛓,permalink: ⛓.html,chains,"---
+layout: objects
+title: chains
+emoji: chains
+permalink: ⛓.html
+---",chains⛓
+1282,U+1FA9D,hook,1282-hook.md,hook,🪝,permalink: 🪝.html,hook,"---
+layout: objects
+title: hook
+emoji: hook
+permalink: 🪝.html
+---",hook🪝
+1283,U+1F9F0,toolbox,1283-toolbox.md,toolbox,🧰,permalink: 🧰.html,toolbox,"---
+layout: objects
+title: toolbox
+emoji: toolbox
+permalink: 🧰.html
+---",toolbox🧰
+1284,U+1F9F2,magnet,1284-magnet.md,magnet,🧲,permalink: 🧲.html,magnet,"---
+layout: objects
+title: magnet
+emoji: magnet
+permalink: 🧲.html
+---",magnet🧲
+1285,U+1FA9C,ladder,1285-ladder.md,ladder,🪜,permalink: 🪜.html,ladder,"---
+layout: objects
+title: ladder
+emoji: ladder
+permalink: 🪜.html
+---",ladder🪜
+1286,U+2697,alembic,1286-alembic.md,alembic,⚗,permalink: ⚗.html,alembic,"---
+layout: objects
+title: alembic
+emoji: alembic
+permalink: ⚗.html
+---",alembic⚗
+1287,U+1F9EA,test-tube,1287-test-tube.md,test_tube,🧪,permalink: 🧪.html,test tube,"---
+layout: objects
+title: test tube
+emoji: test_tube
+permalink: 🧪.html
+---",test tube🧪
+1288,U+1F9EB,petri-dish,1288-petri-dish.md,petri_dish,🧫,permalink: 🧫.html,petri dish,"---
+layout: objects
+title: petri dish
+emoji: petri_dish
+permalink: 🧫.html
+---",petri dish🧫
+1289,U+1F9EC,dna,1289-dna.md,dna,🧬,permalink: 🧬.html,dna,"---
+layout: objects
+title: dna
+emoji: dna
+permalink: 🧬.html
+---",dna🧬
+1290,U+1F52C,microscope,1290-microscope.md,microscope,🔬,permalink: 🔬.html,microscope,"---
+layout: objects
+title: microscope
+emoji: microscope
+permalink: 🔬.html
+---",microscope🔬
+1291,U+1F52D,telescope,1291-telescope.md,telescope,🔭,permalink: 🔭.html,telescope,"---
+layout: objects
+title: telescope
+emoji: telescope
+permalink: 🔭.html
+---",telescope🔭
+1292,U+1F4E1,satellite-antenna,1292-satellite-antenna.md,satellite_antenna,📡,permalink: 📡.html,satellite antenna,"---
+layout: objects
+title: satellite antenna
+emoji: satellite_antenna
+permalink: 📡.html
+---",satellite antenna📡
+1293,U+1F489,syringe,1293-syringe.md,syringe,💉,permalink: 💉.html,syringe,"---
+layout: objects
+title: syringe
+emoji: syringe
+permalink: 💉.html
+---",syringe💉
+1294,U+1FA78,drop-of-blood,1294-drop-of-blood.md,drop_of_blood,🩸,permalink: 🩸.html,drop of blood,"---
+layout: objects
+title: drop of blood
+emoji: drop_of_blood
+permalink: 🩸.html
+---",drop of blood🩸
+1295,U+1F48A,pill,1295-pill.md,pill,💊,permalink: 💊.html,pill,"---
+layout: objects
+title: pill
+emoji: pill
+permalink: 💊.html
+---",pill💊
+1296,U+1FA79,adhesive-bandage,1296-adhesive-bandage.md,adhesive_bandage,🩹,permalink: 🩹.html,adhesive bandage,"---
+layout: objects
+title: adhesive bandage
+emoji: adhesive_bandage
+permalink: 🩹.html
+---",adhesive bandage🩹
+1297,U+1FA7A,stethoscope,1297-stethoscope.md,stethoscope,🩺,permalink: 🩺.html,stethoscope,"---
+layout: objects
+title: stethoscope
+emoji: stethoscope
+permalink: 🩺.html
+---",stethoscope🩺
+1298,U+1F6AA,door,1298-door.md,door,🚪,permalink: 🚪.html,door,"---
+layout: objects
+title: door
+emoji: door
+permalink: 🚪.html
+---",door🚪
+1299,U+1F6D7,elevator,1299-elevator.md,elevator,🛗,permalink: 🛗.html,elevator,"---
+layout: objects
+title: elevator
+emoji: elevator
+permalink: 🛗.html
+---",elevator🛗
+1300,U+1FA9E,mirror,1300-mirror.md,mirror,🪞,permalink: 🪞.html,mirror,"---
+layout: objects
+title: mirror
+emoji: mirror
+permalink: 🪞.html
+---",mirror🪞
+1301,U+1FA9F,window,1301-window.md,window,🪟,permalink: 🪟.html,window,"---
+layout: objects
+title: window
+emoji: window
+permalink: 🪟.html
+---",window🪟
+1302,U+1F6CF,bed,1302-bed.md,bed,🛏,permalink: 🛏.html,bed,"---
+layout: objects
+title: bed
+emoji: bed
+permalink: 🛏.html
+---",bed🛏
+1303,U+1F6CB,couch-and-lamp,1303-couch-and-lamp.md,couch_and_lamp,🛋,permalink: 🛋.html,couch and lamp,"---
+layout: objects
+title: couch and lamp
+emoji: couch_and_lamp
+permalink: 🛋.html
+---",couch and lamp🛋
+1304,U+1FA91,chair,1304-chair.md,chair,🪑,permalink: 🪑.html,chair,"---
+layout: objects
+title: chair
+emoji: chair
+permalink: 🪑.html
+---",chair🪑
+1305,U+1F6BD,toilet,1305-toilet.md,toilet,🚽,permalink: 🚽.html,toilet,"---
+layout: objects
+title: toilet
+emoji: toilet
+permalink: 🚽.html
+---",toilet🚽
+1306,U+1FAA0,plunger,1306-plunger.md,plunger,🪠,permalink: 🪠.html,plunger,"---
+layout: objects
+title: plunger
+emoji: plunger
+permalink: 🪠.html
+---",plunger🪠
+1307,U+1F6BF,shower,1307-shower.md,shower,🚿,permalink: 🚿.html,shower,"---
+layout: objects
+title: shower
+emoji: shower
+permalink: 🚿.html
+---",shower🚿
+1308,U+1F6C1,bathtub,1308-bathtub.md,bathtub,🛁,permalink: 🛁.html,bathtub,"---
+layout: objects
+title: bathtub
+emoji: bathtub
+permalink: 🛁.html
+---",bathtub🛁
+1309,U+1FAA4,mouse-trap,1309-mouse-trap.md,mouse_trap,🪤,permalink: 🪤.html,mouse trap,"---
+layout: objects
+title: mouse trap
+emoji: mouse_trap
+permalink: 🪤.html
+---",mouse trap🪤
+1310,U+1FA92,razor,1310-razor.md,razor,🪒,permalink: 🪒.html,razor,"---
+layout: objects
+title: razor
+emoji: razor
+permalink: 🪒.html
+---",razor🪒
+1311,U+1F9F4,lotion-bottle,1311-lotion-bottle.md,lotion_bottle,🧴,permalink: 🧴.html,lotion bottle,"---
+layout: objects
+title: lotion bottle
+emoji: lotion_bottle
+permalink: 🧴.html
+---",lotion bottle🧴
+1312,U+1F9F7,safety-pin,1312-safety-pin.md,safety_pin,🧷,permalink: 🧷.html,safety pin,"---
+layout: objects
+title: safety pin
+emoji: safety_pin
+permalink: 🧷.html
+---",safety pin🧷
+1313,U+1F9F9,broom,1313-broom.md,broom,🧹,permalink: 🧹.html,broom,"---
+layout: objects
+title: broom
+emoji: broom
+permalink: 🧹.html
+---",broom🧹
+1314,U+1F9FA,basket,1314-basket.md,basket,🧺,permalink: 🧺.html,basket,"---
+layout: objects
+title: basket
+emoji: basket
+permalink: 🧺.html
+---",basket🧺
+1315,U+1F9FB,roll-of-paper,1315-roll-of-paper.md,roll_of_paper,🧻,permalink: 🧻.html,roll of paper,"---
+layout: objects
+title: roll of paper
+emoji: roll_of_paper
+permalink: 🧻.html
+---",roll of paper🧻
+1316,U+1FAA3,bucket,1316-bucket.md,bucket,🪣,permalink: 🪣.html,bucket,"---
+layout: objects
+title: bucket
+emoji: bucket
+permalink: 🪣.html
+---",bucket🪣
+1317,U+1F9FC,soap,1317-soap.md,soap,🧼,permalink: 🧼.html,soap,"---
+layout: objects
+title: soap
+emoji: soap
+permalink: 🧼.html
+---",soap🧼
+1318,U+1FAA5,toothbrush,1318-toothbrush.md,toothbrush,🪥,permalink: 🪥.html,toothbrush,"---
+layout: objects
+title: toothbrush
+emoji: toothbrush
+permalink: 🪥.html
+---",toothbrush🪥
+1319,U+1F9FD,sponge,1319-sponge.md,sponge,🧽,permalink: 🧽.html,sponge,"---
+layout: objects
+title: sponge
+emoji: sponge
+permalink: 🧽.html
+---",sponge🧽
+1320,U+1F9EF,fire-extinguisher,1320-fire-extinguisher.md,fire_extinguisher,🧯,permalink: 🧯.html,fire extinguisher,"---
+layout: objects
+title: fire extinguisher
+emoji: fire_extinguisher
+permalink: 🧯.html
+---",fire extinguisher🧯
+1321,U+1F6D2,shopping-cart,1321-shopping-cart.md,shopping_cart,🛒,permalink: 🛒.html,shopping cart,"---
+layout: objects
+title: shopping cart
+emoji: shopping_cart
+permalink: 🛒.html
+---",shopping cart🛒
+1322,U+1F6AC,cigarette,1322-cigarette.md,cigarette,🚬,permalink: 🚬.html,cigarette,"---
+layout: objects
+title: cigarette
+emoji: cigarette
+permalink: 🚬.html
+---",cigarette🚬
+1323,U+26B0,coffin,1323-coffin.md,coffin,⚰,permalink: ⚰.html,coffin,"---
+layout: objects
+title: coffin
+emoji: coffin
+permalink: ⚰.html
+---",coffin⚰
+1324,U+1FAA6,headstone,1324-headstone.md,headstone,🪦,permalink: 🪦.html,headstone,"---
+layout: objects
+title: headstone
+emoji: headstone
+permalink: 🪦.html
+---",headstone🪦
+1325,U+26B1,funeral-urn,1325-funeral-urn.md,funeral_urn,⚱,permalink: ⚱.html,funeral urn,"---
+layout: objects
+title: funeral urn
+emoji: funeral_urn
+permalink: ⚱.html
+---",funeral urn⚱
+1326,U+1F5FF,moai,1326-moai.md,moai,🗿,permalink: 🗿.html,moai,"---
+layout: objects
+title: moai
+emoji: moai
+permalink: 🗿.html
+---",moai🗿
+1327,U+1FAA7,placard,1327-placard.md,placard,🪧,permalink: 🪧.html,placard,"---
+layout: objects
+title: placard
+emoji: placard
+permalink: 🪧.html
+---",placard🪧
 1328,U+1F3E7,ATM-sign,1328-ATM-sign.md,ATM_sign,🏧,permalink: 🏧.html,ATM sign,,ATM sign🏧
 1329,U+1F6AE,litter-in-bin-sign,1329-litter-in-bin-sign.md,litter_in_bin_sign,🚮,permalink: 🚮.html,litter in bin sign,,litter in bin sign🚮
 1330,U+1F6B0,potable-water,1330-potable-water.md,potable_water,🚰,permalink: 🚰.html,potable water,,potable water🚰

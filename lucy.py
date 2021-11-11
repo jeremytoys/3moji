@@ -40,6 +40,9 @@ with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile:
         if 'activities' in row['file-info']: 
             output_filename = './pages/activities/' + row['filename']
 
+        if 'objects' in row['file-info']: 
+            output_filename = './pages/objects/' + row['filename']
+
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 
             outfile.write(row['file-info'])
 

@@ -1,0 +1,95 @@
+---
+layout: default
+---
+
+<!-- VISA Tracking Code for https://3moji.org --><script>(function(v,i,s,a){if(!v._visaSettings){v._visaSettings={};}v._visaSettings["30fbb791-7a60-11eb-b589-901b0edac50a"]={v:"0.3",s:"30fbb791-7a60-11eb-b589-901b0edac50a",a:"1"};_v=i.getElementsByTagName("body")[0];_a=_v;_i=i.createElement("script");_s=_i;_s.defer="defer";_s.src=s+a+v._visaSettings["30fbb791-7a60-11eb-b589-901b0edac50a"].v;_a.appendChild(_s);})(window,document,"//app-worker.visitor-analytics.io/main",".js?s=30fbb791-7a60-11eb-b589-901b0edac50a&v=")</script><!-- VISA Tracking Code for https://3moji.org -->
+
+<!-- navigation -->
+<style>
+    .topnav{
+      background-color:rgb(255, 192, 57);
+    }
+    .topnav a{
+      color: black;
+    }
+    .dropdown .dropbtn{
+      color:black;
+    }
+    .dropdown .dropbtn:hover{
+      color:rgb(255, 192, 57);
+      background-color: black;
+    }
+
+    .homepage{
+    height:230px;
+    width:380px;
+    }
+
+  @media screen and (max-width: 760px) {
+      .homepage {
+        height:100px;
+          width:380px;
+      }
+    }
+
+    .size{
+        width: 300px;
+    }
+</style>
+
+<script>
+    $(document).ready(function(){
+
+    $("body").on("click", "#btn1", function(){
+        $("#add1").before("<div class='imagegrid'><br><div class='subhead'><h2>People & Body</h2></div><div class='main' id='smileys&peopl'></div><div class='imagegridtwo'>{% for page in site.pages %}{% if page.layout == 'people&body' %}<div class='griddiv'><a href='{{ page.url }}'><img class='gridimage' src='assets/img/3moji/{{ page.emoji }}.png'alt='{{ page.title }}' loading='lazy' /></a></div>{% endif %}{% endfor %}</div></div>" 
+        +  "<div id='remove2'><div class='container-2'><div class='DownloadB' id='btn2'>People & Body</div></div></div>");
+    });
+
+    $("body").on("click", "#btn1", function(){
+        $("#remove").remove();
+    });
+
+
+    $("body").on("click", "#btn2", function(){
+        $("#add1").before("<div class='imagegrid'><br><div class='subhead'><h2>Animals & Nature</h2></div><div class='main' id='animals&nature'></div><div class='imagegridtwo'>{% for page in site.pages %}{% if page.layout == 'animals&nature' %}<div class='griddiv'><a href='{{ page.url }}'><img class='gridimage' src='assets/img/3moji/{{ page.emoji }}.png'alt='{{ page.title }}' loading='lazy' /></a></div>{% endif %}{% endfor %}</div></div>" 
+        +  "<div id='remove3'><div class='container-2'><div class='DownloadB' id='btn3'></div>Food & Drink</div></div>");
+    });
+
+    $("body").on("click", "#btn2", function(){
+        $("#remove2").remove();
+    });
+
+});
+
+</script>
+
+
+{%- include menu.html -%}
+
+<div class="imagegrid">
+  <br>
+  <div class="subhead">
+    <h2>Smileys & Emotions</h2>
+  </div>
+  <div class="main" id="smileys&peopl"></div>
+
+  <div class="imagegridtwo">
+
+    {% for page in site.pages %}
+
+    {% if page.layout == 'smileys&emotion' %}
+
+    <div class="griddiv"><a href="{{ page.url }}"><img class="gridimage" src="assets/img/3moji/{{ page.emoji }}.png"
+          alt="{{ page.title }}" loading="lazy" /></a></div>
+
+    {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</div>
+
+<div id='remove'><div class='container-2'><div class='DownloadB' id='btn1'>People & Body</div></div></div>
+
+<div id='add1'></div>
