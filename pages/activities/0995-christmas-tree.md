@@ -1,6 +1,6 @@
 ---
 layout: activities
 title: Christmas tree
-emoji: Christmas_tree
+emoji: christmas_tree
 permalink: 🎄.html
 ---
