@@ -197,6 +197,18 @@ body {
       white-space: nowrap;
     }
 
+    .nextpage{
+      Width:300px;
+      Padding-top: 10px;
+      Padding-bottom:10px;
+      Background-color:black;
+      Color:rgb(255, 192, 57);
+      text-align: center;
+      font-family: "Montserrat", sans-serif;
+      font-weight: 800;
+      margin:20px;
+    }
+
     .imagegrid {
       /* border: 1px #ccc solid; */
       margin-left:20px;
@@ -222,7 +234,6 @@ body {
     }
 
     .griddiv {
-      /* width: calc( 200% / 10); */
       display: grid;
       grid-template-columns: 80% 80% 80%;
       grid-auto-rows: 5em;
