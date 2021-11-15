@@ -151,20 +151,6 @@
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "gray",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.10474124550819397,
-                    0.09742098301649094,
-                    0.10653529316186905,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
         }
     ],
     "meshes" : [
@@ -232,8 +218,7 @@
                         "NORMAL" : 17,
                         "TEXCOORD_0" : 18
                     },
-                    "indices" : 19,
-                    "material" : 1
+                    "indices" : 19
                 }
             ]
         },

@@ -105,20 +105,6 @@
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Pink",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.8000000715255737,
-                    0.07068260759115219,
-                    0.3145071268081665,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
         }
     ],
     "meshes" : [
@@ -173,7 +159,7 @@
                         "NORMAL" : 13
                     },
                     "indices" : 14,
-                    "material" : 1
+                    "material" : 0
                 }
             ]
         },

@@ -62,36 +62,6 @@
             ]
         }
     ],
-    "materials" : [
-        {
-            "doubleSided" : true,
-            "name" : "Red",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.8000000715255737,
-                    0.02731209248304367,
-                    0.03797036036849022,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Lightgray",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.4124824106693268,
-                    0.38176509737968445,
-                    0.42002442479133606,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        }
-    ],
     "meshes" : [
         {
             "name" : "Sphere.286",
@@ -102,8 +72,7 @@
                         "NORMAL" : 1,
                         "TEXCOORD_0" : 2
                     },
-                    "indices" : 3,
-                    "material" : 0
+                    "indices" : 3
                 }
             ]
         },
@@ -116,8 +85,7 @@
                         "NORMAL" : 5,
                         "TEXCOORD_0" : 6
                     },
-                    "indices" : 7,
-                    "material" : 1
+                    "indices" : 7
                 }
             ]
         },
@@ -130,8 +98,7 @@
                         "NORMAL" : 9,
                         "TEXCOORD_0" : 10
                     },
-                    "indices" : 11,
-                    "material" : 1
+                    "indices" : 11
                 }
             ]
         }

@@ -30,50 +30,6 @@
             ]
         }
     ],
-    "materials" : [
-        {
-            "doubleSided" : true,
-            "name" : "DKgray",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.03682169318199158,
-                    0.03446357324719429,
-                    0.03740420565009117,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Brown",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.07322511821985245,
-                    0.02384052984416485,
-                    0.021921303123235703,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "dkblue",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.015741879120469093,
-                    0.18322162330150604,
-                    0.8000000715255737,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        }
-    ],
     "meshes" : [
         {
             "name" : "Circle.1969",
@@ -84,8 +40,7 @@
                         "NORMAL" : 1,
                         "TEXCOORD_0" : 2
                     },
-                    "indices" : 3,
-                    "material" : 0
+                    "indices" : 3
                 },
                 {
                     "attributes" : {
@@ -93,8 +48,7 @@
                         "NORMAL" : 5,
                         "TEXCOORD_0" : 6
                     },
-                    "indices" : 7,
-                    "material" : 1
+                    "indices" : 7
                 },
                 {
                     "attributes" : {
@@ -102,8 +56,7 @@
                         "NORMAL" : 9,
                         "TEXCOORD_0" : 10
                     },
-                    "indices" : 11,
-                    "material" : 2
+                    "indices" : 11
                 }
             ]
         }

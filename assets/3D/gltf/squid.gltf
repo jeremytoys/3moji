@@ -109,20 +109,6 @@
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "DKBrown",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.010021701455116272,
-                    0.0023923655971884727,
-                    0.0018060366855934262,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
         }
     ],
     "meshes" : [
@@ -149,8 +135,7 @@
                         "NORMAL" : 5,
                         "TEXCOORD_0" : 6
                     },
-                    "indices" : 7,
-                    "material" : 1
+                    "indices" : 7
                 }
             ]
         },

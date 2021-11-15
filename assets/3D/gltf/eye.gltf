@@ -118,7 +118,8 @@
                         "NORMAL" : 9,
                         "TEXCOORD_0" : 10
                     },
-                    "indices" : 11
+                    "indices" : 11,
+                    "material" : 0
                 }
             ]
         }

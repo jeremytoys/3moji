@@ -57,20 +57,6 @@
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Lightgreen",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.2109217345714569,
-                    0.42922651767730713,
-                    0.04565680772066116,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
         }
     ],
     "meshes" : [
@@ -92,8 +78,7 @@
                         "NORMAL" : 5,
                         "TEXCOORD_0" : 6
                     },
-                    "indices" : 7,
-                    "material" : 1
+                    "indices" : 7
                 }
             ]
         },

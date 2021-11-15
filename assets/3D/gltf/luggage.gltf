@@ -30,106 +30,6 @@
             ]
         }
     ],
-    "materials" : [
-        {
-            "doubleSided" : true,
-            "name" : "gray",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.10474124550819397,
-                    0.09742098301649094,
-                    0.10653529316186905,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Lightgray",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.4124824106693268,
-                    0.38176509737968445,
-                    0.42002442479133606,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "DKgray",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.03682169318199158,
-                    0.03446357324719429,
-                    0.03740420565009117,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "DKBrown",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.010021701455116272,
-                    0.0023923655971884727,
-                    0.0018060366855934262,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "DKgreen",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.009797311387956142,
-                    0.11926732957363129,
-                    0.05048948526382446,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "white",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.800000011920929,
-                    0.800000011920929,
-                    0.800000011920929,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Red",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.8000000715255737,
-                    0.02731209248304367,
-                    0.03797036036849022,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        }
-    ],
     "meshes" : [
         {
             "name" : "Cube.7127",
@@ -140,8 +40,7 @@
                         "NORMAL" : 1,
                         "TEXCOORD_0" : 2
                     },
-                    "indices" : 3,
-                    "material" : 0
+                    "indices" : 3
                 },
                 {
                     "attributes" : {
@@ -149,8 +48,7 @@
                         "NORMAL" : 5,
                         "TEXCOORD_0" : 6
                     },
-                    "indices" : 7,
-                    "material" : 1
+                    "indices" : 7
                 },
                 {
                     "attributes" : {
@@ -158,8 +56,7 @@
                         "NORMAL" : 9,
                         "TEXCOORD_0" : 10
                     },
-                    "indices" : 11,
-                    "material" : 2
+                    "indices" : 11
                 },
                 {
                     "attributes" : {
@@ -167,8 +64,7 @@
                         "NORMAL" : 13,
                         "TEXCOORD_0" : 14
                     },
-                    "indices" : 15,
-                    "material" : 3
+                    "indices" : 15
                 },
                 {
                     "attributes" : {
@@ -176,8 +72,7 @@
                         "NORMAL" : 17,
                         "TEXCOORD_0" : 18
                     },
-                    "indices" : 19,
-                    "material" : 4
+                    "indices" : 19
                 },
                 {
                     "attributes" : {
@@ -185,8 +80,7 @@
                         "NORMAL" : 21,
                         "TEXCOORD_0" : 22
                     },
-                    "indices" : 23,
-                    "material" : 5
+                    "indices" : 23
                 },
                 {
                     "attributes" : {
@@ -194,8 +88,7 @@
                         "NORMAL" : 25,
                         "TEXCOORD_0" : 26
                     },
-                    "indices" : 27,
-                    "material" : 6
+                    "indices" : 27
                 }
             ]
         }

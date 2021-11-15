@@ -35,22 +35,6 @@
             ]
         }
     ],
-    "materials" : [
-        {
-            "doubleSided" : true,
-            "name" : "TearBlue",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.007501601707190275,
-                    0.6894696354866028,
-                    0.8000000715255737,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        }
-    ],
     "meshes" : [
         {
             "name" : "Sphere.411",
@@ -61,8 +45,7 @@
                         "NORMAL" : 1,
                         "TEXCOORD_0" : 2
                     },
-                    "indices" : 3,
-                    "material" : 0
+                    "indices" : 3
                 }
             ]
         }

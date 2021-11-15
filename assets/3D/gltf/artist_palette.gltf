@@ -46,48 +46,6 @@
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "Red",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.8000000715255737,
-                    0.02731209248304367,
-                    0.03797036036849022,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "blond",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.7873942852020264,
-                    0.5489762425422668,
-                    0.04593009129166603,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "dkblue",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.015741879120469093,
-                    0.18322162330150604,
-                    0.8000000715255737,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
         }
     ],
     "meshes" : [
@@ -109,8 +67,7 @@
                         "NORMAL" : 5,
                         "TEXCOORD_0" : 6
                     },
-                    "indices" : 7,
-                    "material" : 1
+                    "indices" : 7
                 },
                 {
                     "attributes" : {
@@ -118,8 +75,7 @@
                         "NORMAL" : 9,
                         "TEXCOORD_0" : 10
                     },
-                    "indices" : 11,
-                    "material" : 2
+                    "indices" : 11
                 },
                 {
                     "attributes" : {
@@ -127,8 +83,7 @@
                         "NORMAL" : 13,
                         "TEXCOORD_0" : 14
                     },
-                    "indices" : 11,
-                    "material" : 3
+                    "indices" : 11
                 }
             ]
         }

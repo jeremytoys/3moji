@@ -193,20 +193,6 @@
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
             }
-        },
-        {
-            "doubleSided" : true,
-            "name" : "TearBlue",
-            "pbrMetallicRoughness" : {
-                "baseColorFactor" : [
-                    0.007501601707190275,
-                    0.6894696354866028,
-                    0.8000000715255737,
-                    1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.5
-            }
         }
     ],
     "meshes" : [
@@ -246,8 +232,7 @@
                         "NORMAL" : 9,
                         "TEXCOORD_0" : 10
                     },
-                    "indices" : 11,
-                    "material" : 1
+                    "indices" : 11
                 }
             ]
         },
@@ -260,8 +245,7 @@
                         "NORMAL" : 13,
                         "TEXCOORD_0" : 14
                     },
-                    "indices" : 11,
-                    "material" : 1
+                    "indices" : 11
                 }
             ]
         },
@@ -274,8 +258,7 @@
                         "NORMAL" : 16,
                         "TEXCOORD_0" : 17
                     },
-                    "indices" : 11,
-                    "material" : 1
+                    "indices" : 11
                 }
             ]
         },
@@ -288,8 +271,7 @@
                         "NORMAL" : 19,
                         "TEXCOORD_0" : 20
                     },
-                    "indices" : 11,
-                    "material" : 1
+                    "indices" : 11
                 }
             ]
         },
@@ -302,8 +284,7 @@
                         "NORMAL" : 22,
                         "TEXCOORD_0" : 23
                     },
-                    "indices" : 11,
-                    "material" : 1
+                    "indices" : 11
                 }
             ]
         },
@@ -316,8 +297,7 @@
                         "NORMAL" : 25,
                         "TEXCOORD_0" : 26
                     },
-                    "indices" : 11,
-                    "material" : 1
+                    "indices" : 11
                 }
             ]
         }
