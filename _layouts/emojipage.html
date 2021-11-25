@@ -27,25 +27,36 @@ layout: default
         href="about.html">about</a> page for more.
 
         <br>
-      <h2>Download</h2>
-      <a class="DL" href="../assets/3D/gltf/{{ page.emoji | escape }}.gltf" download="{{ page.emoji | escape }}.gltf">
-        <div class="DownloadB">3D</div>
-      </a>
-      <!-- <a class="DL" href="#page"><div class="DownloadB">FBX</div></a> 
-      <br> -->
-      <a class="DL" href="../assets/img/3moji/{{ page.emoji | escape }}.png" download="{{ page.emoji | escape }}.PNG">
-        <div class="DownloadB">Image</div>
-      </a>
-      <!-- <h2>Or</h2>
-      <a class="DL" href="#page">
-        
-        <div class="DownloadB">Support</div>
       
-        <img class="Donatebutton01" src="../assets/img/3moji/grinning_cat.png" alt="Grinning Cat" />
+        <h2>Download</h2>
+      
+        <a class="DL" href="../assets/img/3moji/{{ page.emoji | escape }}.png" download="{{ page.emoji | escape }}.PNG">
+          <div class="DownloadB">Image</div>
+        </a>
+     
+     <script>
+        $(document).ready(function(){
+          $(".dropdownD").click(function(){
+            $(this).children(".dropdown-container").toggle();
+          });
+        });
+      </script>
 
-        <img class="Donatebutton02" src="../assets/img/3moji/smiling_face_with_hearts.png" alt="picture of 3moji" />
+      <div class="dropdownD">
+      
+        <div class="DL" ><div class="DownloadB" >3D</div></div>
+      
+        <div class="dropdown-container">
 
-      </a> -->
+          <a href="../assets/3D/gltf/{{ page.emoji | escape }}.gltf" download="{{ page.emoji | escape }}.gltf">.gltf</a>
+          <a href="../assets/3D/glb/{{ page.emoji | escape }}.glb" download="{{ page.emoji | escape }}.glb">.glb</a>
+
+        </div>
+
+      </div>
+
+
+    
     </div>
   </div>
 </div>

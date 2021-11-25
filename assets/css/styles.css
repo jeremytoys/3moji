@@ -135,36 +135,14 @@ h4 {
   margin: 0px;
 }
 
-.floater01 {
-  height: 148px;
-  width: 148px;
-  position: absolute;
-  top: 10%;
-  right: 87%;
-  transform: rotate(-15deg);
-  z-index: -1;
-}
-.floaterimage {
-  max-width: 148px;
-  max-height: 148px;
-}
-.floater02 {
-  height: 148px;
-  width: 148px;
-  position: absolute;
-  top: 60%;
-  left: 85%;
-  transform: rotate(25deg);
-  z-index: -1;
-}
 
 /* for the index/home */
-
+/* 
 .bodyimage {
   width: 100%;
   max-width: 450px;
   border-radius: 5px;
-}
+} */
 
 model-viewer {
   height: 400px;
@@ -274,24 +252,6 @@ model-viewer:focus {
   color: rgb(255, 192, 57);
 }
 
-.Donatebutton01 {
-  top: -20px;
-  left: -20px;
-  width: 50px;
-  height: 50px;
-  position: Relative;
-  transform: rotate(-25deg);
-}
-
-.Donatebutton02 {
-  top: -20px;
-  left: 230px;
-  width: 50px;
-  height: 50px;
-  position: Relative;
-  transform: rotate(25deg);
-}
-
 .cc {
   position: fixed;
   bottom: 0px;
@@ -352,6 +312,18 @@ model-viewer:focus {
   right: 10px;
 }
 
+.dropdown-container {
+  display: none;
+  position: absolute;
+  background-color: rgb(255, 203, 91);
+  color: black;
+  z-index: 1;
+  width: 380px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  box-shadow: -3px 3px 0px 0px rgba(0, 0, 0, 0.2);
+}
+
 @media screen and (max-width: 600px) {
   .dropdown-content {
     right: 0px;
@@ -362,10 +334,17 @@ model-viewer:focus {
 .dropdown-content a {
   float: none;
   color: black;
-  padding: 12px 16px;
+  padding: 12px;
   text-decoration: none;
   display: block;
   text-align: left;
+}
+
+.dropdown-container a {
+  padding: 12px 16px;
+  float: none;
+  display: block;
+  text-align: center;
 }
 
 .topnav a:hover {
@@ -374,6 +353,11 @@ model-viewer:focus {
 }
 
 .dropdown-content a:hover {
+  background-color: rgb(255, 214, 125);
+  color: black;
+}
+
+.dropdown-container a:hover {
   background-color: rgb(255, 214, 125);
   color: black;
 }

@@ -12,8 +12,8 @@ function myFunction() {
 }
 
 $(document).ready(function(){
-  $("button").click(function(){
-    $(".dropdown-content").toggle();
+  $(".dropdown").click(function(){
+    $(this).children(".dropdown-content").toggle();
   });
 });
 
@@ -23,20 +23,21 @@ $(document).ready(function(){
   <a href="index.html" class="active">3moji</a>
     
   <div class="dropdown">
+  
+    <button class="dropbtn" id="button">Categories</button>
 
-    <button class="dropbtn" id="button">Categories
-    </button>
     <div class="dropdown-content">
       <a href="Smileys&Emotion.html">😀 Smileys & Emotions</a>
       <a href="People&Body.html">🧑‍🤝‍🧑 People & Body</a>
       <a href="Animals&Nature.html">🐍 Animals & Nature</a>
       <a href="Food&Drink.html">🧋 Food & Drink</a>
       <a href="Travel&Places.html">🗺️ Travel & Places</a>
-      <a href="Activities.html" >🎨 Activities</a>
-      <a href="Objects.html" >💎 Objects</a>
-      <div class="inactivemenu" >🔣 Symbols (In Progress)</div>
-      <div class="inactivemenu" >🎌 Flags (In Progress)</div>
+      <a href="Activities.html">🎨 Activities</a>
+      <a href="Objects.html">💎 Objects</a>
+      <div class="inactivemenu">🔣 Symbols (In Progress)</div>
+      <div class="inactivemenu">🎌 Flags (In Progress)</div>
     </div>
+
     <a class="searchButton" href="about.html">About</a>
     <a class="searchButton" href="search.html">Search</a>
   </div>
