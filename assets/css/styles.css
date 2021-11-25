@@ -49,7 +49,6 @@ html {
   align-content: center;
   flex: 1;
   flex-wrap: wrap;
-  /* border: 1px rgb(255, 23, 197) solid; */
 }
 
 .container-2-box {
@@ -137,12 +136,6 @@ h4 {
 
 
 /* for the index/home */
-/* 
-.bodyimage {
-  width: 100%;
-  max-width: 450px;
-  border-radius: 5px;
-} */
 
 model-viewer {
   height: 400px;
@@ -285,6 +278,11 @@ model-viewer:focus {
 }
 
 .dropdown {
+  float: right;
+  overflow: hidden;
+}
+
+.rightmenu {
   float: right;
   overflow: hidden;
 }
