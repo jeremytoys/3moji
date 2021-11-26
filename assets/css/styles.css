@@ -282,11 +282,6 @@ model-viewer:focus {
   overflow: hidden;
 }
 
-.rightmenu {
-  float: right;
-  overflow: hidden;
-}
-
 .dropdown .dropbtn {
   font-size: 17px;
   border: none;

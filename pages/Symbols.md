@@ -1,6 +1,6 @@
 ---
 layout: category_symbols
 title: 3moji Category - Symbols
-permalink: Symbols.html
+permalink: symbols.html
 emoji: speech_balloon
 ---

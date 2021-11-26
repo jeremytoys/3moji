@@ -1,6 +1,6 @@
 ---
 layout: category_activities
 title: 3moji Category - Activities
-permalink: Activities.html
+permalink: activities.html
 emoji: speech_balloon
 ---
