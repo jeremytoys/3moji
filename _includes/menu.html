@@ -12,8 +12,8 @@ function myFunction() {
 }
 
 $(document).ready(function(){
-  $(".dropdown").click(function(){
-    $(this).children(".dropdown-content").toggle();
+  $("button").click(function(){
+    $(".dropdown-content").toggle();
   });
 });
 
@@ -24,7 +24,7 @@ $(document).ready(function(){
     
   <div class="dropdown">
   
-    <button class="dropbtn">Categories</button>
+    <button class="dropbtn" id="button">Categories</button>
 
     <div class="dropdown-content">
       <a href="Smileys&Emotion.html">😀 Smileys & Emotions</a>
