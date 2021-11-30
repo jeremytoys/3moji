@@ -16,35 +16,38 @@ import io
 with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile: 
     reader = csv.DictReader(infile)
     for row in reader:
-        print(row['filename'], row['file-info'])
-        if row['file-info'].strip() == '': continue
+        print(row['filename'], row['front-matter'])
+        if row['front-matter'].strip() == '': continue
 
-        if 'smileys&emotion' in row['file-info']: 
+        if 'smileys&emotion' in row['front-matter']: 
             output_filename = './pages/smileys&emotion/' + row['filename']
 
-        if 'people&body' in row['file-info']: 
+        if 'people&body' in row['front-matter']: 
             output_filename = './pages/people&body/' + row['filename']
 
-        if 'animals&nature' in row['file-info']: 
+        if 'animals&nature' in row['front-matter']: 
             output_filename = './pages/animals&nature/' + row['filename']
 
-        if 'food&drink' in row['file-info']: 
+        if 'food&drink' in row['front-matter']: 
             output_filename = './pages/food&drink/' + row['filename']
 
-        if 'travel&places' in row['file-info']: 
+        if 'travel&places' in row['front-matter']: 
             output_filename = './pages/travel&places/' + row['filename']
         
-        if 'travel&places' in row['file-info']: 
+        if 'travel&places' in row['front-matter']: 
             output_filename = './pages/travel&places/' + row['filename']
 
-        if 'activities' in row['file-info']: 
+        if 'activities' in row['front-matter']: 
             output_filename = './pages/activities/' + row['filename']
 
-        if 'objects' in row['file-info']: 
+        if 'objects' in row['front-matter']: 
             output_filename = './pages/objects/' + row['filename']
 
+        if 'symbols' in row['front-matter']: 
+            output_filename = './pages/symbols/' + row['filename']
+
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 
-            outfile.write(row['file-info'])
+            outfile.write(row['front-matter'])
 
 
 
