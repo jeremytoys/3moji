@@ -46,6 +46,9 @@ with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile:
         if 'symbols' in row['front-matter']: 
             output_filename = './pages/symbols/' + row['filename']
 
+        if 'flags' in row['front-matter']: 
+            output_filename = './pages/flags/' + row['filename']
+
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 
             outfile.write(row['front-matter'])
 

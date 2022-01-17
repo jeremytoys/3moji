@@ -1,0 +1,26 @@
+{
+    "asset" : {
+        "copyright" : "Jeremy Edelblut",
+        "generator" : "Khronos glTF Blender I/O v1.7.33",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "flag",
+            "scale" : [
+                2.1700284481048584,
+                1.4511661529541016,
+                0.031177423894405365
+            ]
+        }
+    ]
+}

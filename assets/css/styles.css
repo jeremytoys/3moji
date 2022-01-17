@@ -167,7 +167,7 @@ model-viewer:focus {
 }
 
 .nextpage {
-  width: 250px;
+  width: 175px;
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: rgb(255, 192, 57);
@@ -175,8 +175,8 @@ model-viewer:focus {
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-weight: 800;
-  margin-top: 15px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .nextpage:hover {

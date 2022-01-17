@@ -1,6 +1,6 @@
 ---
 layout: people&body
 title: "family: woman, girl, boy"
-emoji: family__woman_girl_boy
+emoji: family_woman_girl_boy
 permalink: 👩‍👧‍👦.html
 ---

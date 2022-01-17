@@ -1,6 +1,6 @@
 ---
 layout: people&body
 title: "man: bald"
-emoji: man__bald
+emoji: man_bald
 permalink: 👨‍🦲.html
 ---

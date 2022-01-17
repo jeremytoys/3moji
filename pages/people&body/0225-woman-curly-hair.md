@@ -1,6 +1,6 @@
 ---
 layout: people&body
 title: "woman: curly hair"
-emoji: woman__curly_hair
+emoji: woman_curly_hair
 permalink: 👩‍🦱.html
 ---
