@@ -197,8 +197,12 @@ model-viewer:focus {
 }
 
 .gridimage {
+  pointer-events: none;
   max-width: 85px;
   max-height: 85px;
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
 }
 
 @media screen and (min-width: 1220px) {
