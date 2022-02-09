@@ -4,6 +4,12 @@
         "generator" : "Khronos glTF Blender I/O v1.7.33",
         "version" : "2.0"
     },
+    "extensionsUsed" : [
+        "KHR_texture_transform"
+    ],
+    "extensionsRequired" : [
+        "KHR_texture_transform"
+    ],
     "scene" : 1,
     "scenes" : [
         {
@@ -83,6 +89,14 @@
             "name" : "skin_tone_one",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
+                    "extensions" : {
+                        "KHR_texture_transform" : {
+                            "offset" : [
+                                0.25,
+                                0
+                            ]
+                        }
+                    },
                     "index" : 1
                 },
                 "metallicFactor" : 0,
