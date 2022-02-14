@@ -167,8 +167,8 @@ model-viewer:focus {
 }
 
 .nextpage {
-  width: 175px;
-  padding-top: 10px;
+  width: 24px;
+  padding: 10px;
   padding-bottom: 10px;
   background-color: rgb(255, 192, 57);
   color: black;
@@ -180,8 +180,7 @@ model-viewer:focus {
 }
 
 .nextpage:hover {
-  background-color: black;
-  color: rgb(255, 192, 57);
+  background-color: rgb(255, 214, 125);
 }
 
 .imagegrid {
