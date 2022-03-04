@@ -1,0 +1,11 @@
+3moji 3D Library Information:
+* title:	3moji.org 3D Library
+* source:	https://3moji.org
+* author:	Jeremy Edelblut
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3moji.org 3D Library" (https://3moji.org) by Jeremy Edelblut licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
