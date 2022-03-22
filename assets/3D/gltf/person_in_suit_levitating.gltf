@@ -1,6 +1,6 @@
 {
     "asset" : {
-        "copyright" : "Jeremy Edelblut",
+        "copyright" : "Jeremy Edelblut - 3moji.org",
         "generator" : "Khronos glTF Blender I/O v1.7.33",
         "version" : "2.0"
     },
@@ -851,7 +851,12 @@
         },
         {
             "mesh" : 11,
-            "name" : "Sphere.234"
+            "name" : "Sphere.234",
+            "translation" : [
+                1.1981319403275847e-05,
+                -0.0010897950269281864,
+                -0.004673387855291367
+            ]
         },
         {
             "mesh" : 12,
@@ -883,7 +888,12 @@
         },
         {
             "mesh" : 19,
-            "name" : "3moji.org.133"
+            "name" : "3moji.org.133",
+            "translation" : [
+                1.1981319403275847e-05,
+                -0.0010897950269281864,
+                -0.004673387855291367
+            ]
         }
     ],
     "materials" : [
