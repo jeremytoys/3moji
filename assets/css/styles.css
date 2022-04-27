@@ -52,7 +52,7 @@ html {
 }
 
 .container-2-box {
-  max-width: 380px;
+  max-width: 360px;
 }
 
 .container-4 {
@@ -138,9 +138,9 @@ h4 {
 /* for the index/home */
 
 model-viewer {
-  height: 400px;
-  width: 400px;
-  margin: 8px;
+  height: 360px;
+  width: 360px;
+  /* margin: 8px; */
   border-radius: 12px;
 }
 
@@ -314,7 +314,7 @@ model-viewer:focus {
   background-color: rgb(255, 203, 91);
   color: black;
   z-index: 1;
-  width: 380px;
+  width: 360px;
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
   box-shadow: -3px 3px 0px 0px rgba(0, 0, 0, 0.2);
