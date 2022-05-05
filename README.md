@@ -1,4 +1,11 @@
 # 3moji 3D Library
+
+<p align="center">
+  <a href="https://3moji.org">
+    <img src="3moji_banner.png">
+  </a>
+</p>
+
 3moji is my attempt at creating a 3D Emoji library. The project is a current work in progress but it is slowly getting better day by day.
 
 The best way to currently view the 3moji library is over at:
