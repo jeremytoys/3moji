@@ -61,8 +61,8 @@ h4 {
 /* model-viewer */
 
 model-viewer {
-  height: 360px;
-  width: 360px;
+  height: 350px;
+  width: 350px;
   border-radius: 12px;
 }
 
@@ -129,6 +129,10 @@ model-viewer:focus {
 .container-4-box {
   max-width: 560px;
   margin: auto;
+}
+
+.container-3-box {
+  margin: 10px;
 }
 
 .inner {
@@ -242,6 +246,7 @@ model-viewer:focus {
   font-family: "Montserrat", sans-serif;
   font-weight: 800;
   margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .DownloadB:hover {
