@@ -2,9 +2,16 @@
 
 body {
   margin: 0px;
-  overflow-x: hidden; /* Hide horizontal scrollbar */
   background-color: rgb(255, 192, 57);
   padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
 }
 
 html {
@@ -12,6 +19,61 @@ html {
   width: 100%;
   scroll-behavior: smooth;
 }
+
+p {
+  color: rgb(16, 21, 39);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  line-height: 1.5em;
+  word-break: normal;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(16, 21, 39);
+  word-break: normal;
+}
+
+h2 {
+  color:rgb(9, 9, 12);
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+  padding: 0px;
+  margin: 5px;
+}
+
+h3 {
+  color:rgb(9, 9, 12);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+h4 {
+  color:rgb(9, 9, 12);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 30px;
+  padding: 0px;
+  margin: 0px;
+}
+
+/* model-viewer */
+
+model-viewer {
+  height: 360px;
+  width: 360px;
+  border-radius: 12px;
+}
+
+model-viewer#reveal {
+  --poster-color: transparent;
+}
+
+model-viewer:focus {
+  outline: none;
+}
+
 
 /* header */
 
@@ -94,62 +156,8 @@ html {
   padding-right: 10px;
 }
 
-p {
-  color: rgb(16, 21, 39);
-  font-family: "Montserrat", sans-serif;
-  font-weight: 600;
-  line-height: 1.5em;
-}
-
-a {
-  text-decoration: none;
-  color: rgb(16, 21, 39);
-}
-
 .textlink {
   text-decoration: underline;
-}
-
-h2 {
-  color:rgb(9, 9, 12);
-  font-family: "Montserrat", sans-serif;
-  font-size: 20px;
-  font-weight: 800;
-  padding: 0px;
-  margin: 5px;
-}
-
-h3 {
-  color:rgb(9, 9, 12);
-  font-family: "Montserrat", sans-serif;
-  font-weight: 600;
-}
-
-h4 {
-  color:rgb(9, 9, 12);
-  font-family: "Montserrat", sans-serif;
-  font-weight: 800;
-  font-size: 30px;
-  padding: 0px;
-  margin: 0px;
-}
-
-
-/* for the index/home */
-
-model-viewer {
-  height: 360px;
-  width: 360px;
-  /* margin: 8px; */
-  border-radius: 12px;
-}
-
-model-viewer#reveal {
-  --poster-color: transparent;
-}
-
-model-viewer:focus {
-  outline: none;
 }
 
 /* Image grid */
