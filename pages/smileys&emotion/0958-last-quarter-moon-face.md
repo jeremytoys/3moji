@@ -1,0 +1,7 @@
+---
+layout: smileys&emotion
+title: last quarter moon face
+emoji: last_quarter_moon_face
+permalink: 🌜.html
+image: assets/img/3moji/last_quarter_moon_face.png
+---

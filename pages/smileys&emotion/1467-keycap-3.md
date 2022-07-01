@@ -1,0 +1,7 @@
+---
+layout: smileys&emotion
+title: "keycap: 3"
+emoji: keycap_3
+permalink: 3️⃣.html
+image: assets/img/3moji/keycap_3.png
+---

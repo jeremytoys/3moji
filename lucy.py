@@ -1,13 +1,13 @@
-import csv
+# import csv
 
-with open('data.csv', 'r') as infile: 
-    reader = csv.DictReader(infile)
-    for row in reader: 
-        print(row['fruit'], row['color'], row['taste'])
-        output_filename = './fruit_files/' + row['fruit'] + '.md'
-        with open(output_filename, 'w') as outfile: 
-            outfile.write(row['color'] + '\n')
-            outfile.write(row['taste'])
+# with open('data.csv', 'r') as infile: 
+#     reader = csv.DictReader(infile)
+#     for row in reader: 
+#         print(row['fruit'], row['color'], row['taste'])
+#         output_filename = './fruit_files/' + row['fruit'] + '.md'
+#         with open(output_filename, 'w') as outfile: 
+#             outfile.write(row['color'] + '\n')
+#             outfile.write(row['taste'])
 
 
 import csv
@@ -51,6 +51,7 @@ with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile:
 
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 
             outfile.write(row['front-matter'])
+
 
 
 
