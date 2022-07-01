@@ -15,6 +15,7 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 215", group: :jekyll_plugins
 # If you have any plugins, put them here!
+gem 'jekyll-seo-tag'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

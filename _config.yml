@@ -3,7 +3,9 @@
 # Defaults settings https://jekyllrb.com/docs/configuration/#default-configuration
 
 title: 3moji
-description: "A home for 3D Emoji"
+description: "A Home for 3D Emoji"
+plugins:
+  - jekyll-seo-tag
 
 url: https://3moji.org
 
