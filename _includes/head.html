@@ -11,6 +11,13 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;800&display=swap" rel="stylesheet" />
   <link rel="icon" type="image/png" href="assets/img/icon.png" />
 
+  <!-- Open Graph -->
+  
+  <meta property="og:title" content="{{ page.title | escape }}" />
+  <meta property="og:type" content="image/png" />
+  <meta property="og:url" content="{{ page.url | escape }}" />
+  <meta property="og:image" content="../assets/img/3moji/{{ page.emoji | escape }}.png" />
+
   <!-- import the webpage's stylesheet -->
 
   <link rel="stylesheet" href="assets/css/styles.css">
