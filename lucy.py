@@ -19,34 +19,31 @@ with io.open('./pages/3mojidata.csv', 'r', encoding='utf-8') as infile:
         print(row['filename'], row['front-matter'])
         if row['front-matter'].strip() == '': continue
 
-        if 'smileys&emotion' in row['front-matter']: 
+        if 'layout: smileys&emotion' in row['front-matter']: 
             output_filename = './pages/smileys&emotion/' + row['filename']
 
-        if 'people&body' in row['front-matter']: 
+        if 'layout: people&body' in row['front-matter']: 
             output_filename = './pages/people&body/' + row['filename']
 
-        if 'animals&nature' in row['front-matter']: 
+        if 'layout: animals&nature' in row['front-matter']: 
             output_filename = './pages/animals&nature/' + row['filename']
 
-        if 'food&drink' in row['front-matter']: 
+        if 'layout: food&drink' in row['front-matter']: 
             output_filename = './pages/food&drink/' + row['filename']
 
-        if 'travel&places' in row['front-matter']: 
-            output_filename = './pages/travel&places/' + row['filename']
-        
-        if 'travel&places' in row['front-matter']: 
+        if 'layout: travel&places' in row['front-matter']: 
             output_filename = './pages/travel&places/' + row['filename']
 
-        if 'activities' in row['front-matter']: 
+        if 'layout: activities' in row['front-matter']: 
             output_filename = './pages/activities/' + row['filename']
 
-        if 'objects' in row['front-matter']: 
+        if 'layout: objects' in row['front-matter']: 
             output_filename = './pages/objects/' + row['filename']
 
-        if 'symbols' in row['front-matter']: 
+        if 'layout: symbols' in row['front-matter']: 
             output_filename = './pages/symbols/' + row['filename']
 
-        if 'flags' in row['front-matter']: 
+        if 'layout: flags' in row['front-matter']: 
             output_filename = './pages/flags/' + row['filename']
 
         with io.open(output_filename, 'w', encoding='utf-8') as outfile: 

@@ -28,6 +28,11 @@
         {
             "alphaMode" : "BLEND",
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.05000000074505806,
+                0.05000000074505806,
+                0.05000000074505806
+            ],
             "name" : "transparent",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
