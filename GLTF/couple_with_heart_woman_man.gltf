@@ -106,10 +106,18 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.20000000298023224,
+                0.20000000298023224,
+                0.20000000298023224
+            ],
+            "emissiveTexture" : {
+                "index" : 2
+            },
             "name" : "skin_tone_one",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 2
+                    "index" : 3
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -117,10 +125,18 @@
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
+            "emissiveTexture" : {
+                "index" : 4
+            },
             "name" : "skin_tone_two",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 3
+                    "index" : 5
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -344,6 +360,14 @@
         }
     ],
     "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
         {
             "sampler" : 0,
             "source" : 0

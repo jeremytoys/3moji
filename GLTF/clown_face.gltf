@@ -23,10 +23,18 @@
         {
             "alphaMode" : "BLEND",
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.20000000298023224,
+                0.20000000298023224,
+                0.20000000298023224
+            ],
+            "emissiveTexture" : {
+                "index" : 0
+            },
             "name" : "cheeks",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 0
+                    "index" : 1
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -40,12 +48,12 @@
                 0.20000000298023224
             ],
             "emissiveTexture" : {
-                "index" : 1
+                "index" : 2
             },
             "name" : "color",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
-                    "index" : 2
+                    "index" : 3
                 },
                 "metallicFactor" : 0,
                 "roughnessFactor" : 0.5
@@ -78,6 +86,10 @@
         }
     ],
     "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
         {
             "sampler" : 0,
             "source" : 0
