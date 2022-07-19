@@ -1,7 +1,7 @@
 ---
 layout: symbols
-title: "keycap: *"
+title: "keycap: asterisk"
 emoji: keycap_asterisk
-permalink: *️⃣.html
+permalink: asterisk.html
 image: assets/img/3moji/keycap_asterisk.png
 ---

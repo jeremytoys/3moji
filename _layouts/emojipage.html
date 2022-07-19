@@ -23,30 +23,51 @@ layout: default
       <h4>{{ page.title | escape }}</h4>
       <p>
         Oh look, it's {{ page.title | escape }}! These emoji are licensed under <a class="textlink" rel="license"
-        href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>, so feel free to use them with credit in any project.</p>
-        <p>Head over to the <a class="textlink"
-        href="download.html">download</a> page to grab the entire library.
+          href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>, so feel free to use them with credit in
+        any project.</p>
+      <p>Head over to the <a class="textlink" href="download.html">download</a> page to grab the entire library.
 
         <br>
-      
-        <h2>Download</h2>
-      
-        <a class="DL" href="../assets/img/3moji/{{ page.emoji | escape }}.png" download="{{ page.emoji | escape }}.PNG">
-          <div class="DownloadB">Image</div>
-        </a>
-     
-     <script>
-        $(document).ready(function(){
-          $(".dropdownD").click(function(){
+
+      <h2>Download</h2>
+
+      <script>
+        $(document).ready(function () {
+          $(".dropdownD").click(function () {
             $(this).children(".dropdown-container").toggle();
           });
         });
+
+        $(document).ready(function () {
+          $(".takepicture").click(function () {
+            let el = document.createElement('a')
+            el.setAttribute('download', '{{ page.emoji | escape }}.png')
+
+            let url = document.querySelector("model-viewer").shadowRoot.querySelector("#webgl-canvas").toDataURL('img/png');
+
+            el.href = url
+            el.click()
+          });
+        });
+
       </script>
 
+      <!-- <a class="DL" href="../assets/img/3moji/{{ page.emoji | escape }}.png" download="{{ page.emoji | escape }}.PNG">
+        <div class="DownloadB">Image</div>
+      </a> -->
+      <div class="takepicture">
+        <div class="DL">
+          <div class="DownloadB">2D</div>
+        </div>
+      </div>
+
+
       <div class="dropdownD">
-      
-        <div class="DL" ><div class="DownloadB" >3D</div></div>
-      
+
+        <div class="DL">
+          <div class="DownloadB">3D</div>
+        </div>
+
         <div class="dropdown-container">
 
           <a href="../assets/3D/gltf/{{ page.emoji | escape }}.gltf" download="{{ page.emoji | escape }}.gltf">.gltf</a>
@@ -57,7 +78,7 @@ layout: default
       </div>
 
 
-    
+
     </div>
   </div>
 </div>
