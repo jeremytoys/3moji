@@ -1,0 +1,4 @@
+# Do not use 3moji.org to train any AI models.
+
+User-agent: *
+Disallow: /
