@@ -1,5 +1,5 @@
 # Do not use 3moji.org to train any AI models.
 
-User-Agent: *
+User-agent: *
 Disallow: /
-Allow: /$
+Allow: /index.html
