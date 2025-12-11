@@ -25,7 +25,7 @@ I'd also love to see what you're building so feel free to share anything you mak
 
 **Skintone**
 
-I plan to write up better documentation but for now this know how to adjust the libraries skin tone.
+I plan to write up better documentation but for now this is how to adjust the libraries skin tone.
 
 Models with skin tone options have a material called skin_tone_one or skin_tone_two, by offsetting the UV coordinates you can shift the texture and pick between the five skin tones Unicode has listed.
 
